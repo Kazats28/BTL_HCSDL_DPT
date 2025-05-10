@@ -1,0 +1,6042 @@
+<HTML>
+
+<HEAD>
+
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+   <META NAME="Author" CONTENT="Yuan Ping">
+
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (Win95; I) [Netscape]">
+
+   <TITLE>youth</TITLE>
+
+</HEAD>
+
+<BODY>
+
+&nbsp;
+
+<UL><B><I><FONT SIZE=+3>Youth</FONT></I></B>
+
+<UL><B><FONT SIZE=+2>by Joseph Conrad</FONT></B></UL>
+
+</UL>
+
+
+
+<HR WIDTH="100%">
+
+<BR>&nbsp;
+
+
+
+<P>". . .&nbsp; But the Dwarf answered: No;
+
+
+
+<P>something human is dearer to me than the
+
+
+
+<P>wealth of all the world."&nbsp; GRIMM'S TALES.
+
+<BR>&nbsp;
+
+
+
+<P>TO MY WIFE
+
+<BR>&nbsp;
+
+
+
+<P><B><FONT SIZE=+2>YOUTH: A NARRATIVE</FONT></B>
+
+<BR>&nbsp;
+
+
+
+<P>THIS could have occurred nowhere but in England,
+
+
+
+<P>where men and sea interpenetrate, so to speak--the sea
+
+
+
+<P>entering into the life of most men, and the men know-
+
+
+
+<P>ing something or everything about the sea, in the way
+
+
+
+<P>of amusement, of travel, or of bread-winning.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>We were sitting round a mahogany table that reflected
+
+
+
+<P>the bottle, the claret-glasses, and our faces as we leaned
+
+
+
+<P>on our elbows.&nbsp; There was a director of companies, an
+
+
+
+<P>accountant, a lawyer, Marlow, and myself.&nbsp; The direc-
+
+
+
+<P>tor had been a CONWAY boy, the accountant had served
+
+
+
+<P>four years at sea, the lawyer--a fine crusted Tory, High
+
+
+
+<P>Churchman, the best of old fellows, the soul of honor--
+
+
+
+<P>had been chief officer in the P. &amp; O. service in the good
+
+
+
+<P>old days when mail-boats were square-rigged at least on
+
+
+
+<P>two masts, and used to come down the China Sea before
+
+
+
+<P>a fair monsoon with stun'-sails set alow and aloft.&nbsp; We
+
+
+
+<P>all began life in the merchant service.&nbsp; Between the five
+
+
+
+<P>of us there was the strong bond of the sea, and also the
+
+
+
+<P>fellowship of the craft, which no amount of enthusiasm
+
+
+
+<P>for yachting, cruising, and so on can give, since one is
+
+
+
+<P>only the amusement of life and the other is life itself.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>Marlow (at least I think that is how he spelt his name)
+
+
+
+<P>told the story, or rather the chronicle, of a voyage:
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Yes, I have seen a little of the Eastern seas; but what
+
+
+
+<P>I remember best is my first voyage there.&nbsp; You fellows
+
+
+
+<P>know there are those voyages that seem ordered for the
+
+
+
+<P>illustration of life, that might stand for a symbol of
+
+
+
+<P>existence.&nbsp; You fight, work, sweat, nearly kill yourself,
+
+
+
+<P>sometimes do kill yourself, trying to accomplish some-
+
+
+
+<P>thing--and you can't.&nbsp; Not from any fault of yours.
+
+
+
+<P>You simply can do nothing, neither great nor little--
+
+
+
+<P>not a thing in the world--not even marry an old maid, or
+
+
+
+<P>get a wretched 600-ton cargo of coal to its port of desti-
+
+
+
+<P>nation.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"It was altogether a memorable affair.&nbsp; It was my
+
+
+
+<P>first voyage to the East, and my first voyage as second
+
+
+
+<P>mate; it was also my skipper's first command.&nbsp; You'll
+
+
+
+<P>admit it was time.&nbsp; He was sixty if a day; a little man,
+
+
+
+<P>with a broad, not very straight back, with bowed shoul-
+
+
+
+<P>ders and one leg more bandy than the other, he had that
+
+
+
+<P>queer twisted-about appearance you see so often in men
+
+
+
+<P>who work in the fields.&nbsp; He had a nut-cracker face--chin
+
+
+
+<P>and nose trying to come together over a sunken mouth--
+
+
+
+<P>and it was framed in iron-gray fluffy hair, that looked
+
+
+
+<P>like a chin strap of cotton-wool sprinkled with coal-dust.
+
+
+
+<P>And he had blue eyes in that old face of his, which were
+
+
+
+<P>amazingly like a boy's, with that candid expression some
+
+
+
+<P>quite common men preserve to the end of their days by
+
+
+
+<P>a rare internal gift of simplicity of heart and rectitude
+
+
+
+<P>of soul.&nbsp; What induced him to accept me was a wonder.
+
+
+
+<P>I had come out of a crack Australian clipper, where I
+
+
+
+<P>had been third officer, and he seemed to have a prejudice
+
+
+
+<P>against crack clippers as aristocratic and high-toned.
+
+
+
+<P>He said to me, 'You know, in this ship you will have to
+
+
+
+<P>work.'&nbsp; I said I had to work in every ship I had ever
+
+
+
+<P>been in.&nbsp; 'Ah, but this is different, and you gentlemen
+
+
+
+<P>out of them big ships; . . . but there!&nbsp; I dare say you
+
+
+
+<P>will do.&nbsp; Join to-morrow.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"I joined to-morrow.&nbsp; It was twenty-two years ago;
+
+
+
+<P>and I was just twenty.&nbsp; How time passes!&nbsp; It was one
+
+
+
+<P>of the happiest days of my life.&nbsp; Fancy!&nbsp; Second mate
+
+
+
+<P>for the first time--a really responsible officer!&nbsp; I wouldn't
+
+
+
+<P>have thrown up my new billet for a fortune.&nbsp; The mate
+
+
+
+<P>looked me over carefully.&nbsp; He was also an old chap, but
+
+
+
+<P>of another stamp.&nbsp; He had a Roman nose, a snow-white,
+
+
+
+<P>long beard, and his name was Mahon, but he insisted that
+
+
+
+<P>it should be pronounced Mann.&nbsp; He was well connected;
+
+
+
+<P>yet there was something wrong with his luck, and he
+
+
+
+<P>had never got on.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"As to the captain, he had been for years in coasters,
+
+
+
+<P>then in the Mediterranean, and last in the West Indian
+
+
+
+<P>trade.&nbsp; He had never been round the Capes.&nbsp; He could
+
+
+
+<P>just write a kind of sketchy hand, and didn't care for
+
+
+
+<P>writing at all.&nbsp; Both were thorough good seamen of
+
+
+
+<P>course, and between those two old chaps I felt like a
+
+
+
+<P>small boy between two grandfathers.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The ship also was old.&nbsp; Her name was the Judea.
+
+
+
+<P>Queer name, isn't it?&nbsp; She belonged to a man Wilmer,
+
+
+
+<P>Wilcox--some name like that; but he has been bankrupt
+
+
+
+<P>and dead these twenty years or more, and his name don't
+
+
+
+<P>matter.&nbsp; She had been laid up in Shadwell basin for ever
+
+
+
+<P>so long.&nbsp; You can imagine her state.&nbsp; She was all rust,
+
+
+
+<P>dust, grime--soot aloft, dirt on deck.&nbsp; To me it was
+
+
+
+<P>like coming out of a palace into a ruined cottage.&nbsp; She
+
+
+
+<P>was about 400 tons, had a primitive windlass, wooden
+
+
+
+<P>latches to the doors, not a bit of brass about her, and a
+
+
+
+<P>big square stern.&nbsp; There was on it, below her name in
+
+
+
+<P>big letters, a lot of scroll work, with the gilt off, and some
+
+
+
+<P>sort of a coat of arms, with the motto 'Do or Die' under-
+
+
+
+<P>neath.&nbsp; I remember it took my fancy immensely.&nbsp; There
+
+
+
+<P>was a touch of romance in it, something that made me
+
+
+
+<P>love the old thing--something that appealed to my
+
+
+
+<P>youth!
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We left London in ballast--sand ballast--to load a
+
+
+
+<P>cargo of coal in a northern port for Bankok.&nbsp; Bankok!
+
+
+
+<P>I thrilled.&nbsp; I had been six years at sea, but had only seen
+
+
+
+<P>Melbourne and Sydney, very good places, charming
+
+
+
+<P>places in their way--but Bankok!
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We worked out of the Thames under canvas, with a
+
+
+
+<P>North Sea pilot on board.&nbsp; His name was Jermyn, and
+
+
+
+<P>he dodged all day long about the galley drying his hand-
+
+
+
+<P>kerchief before the stove.&nbsp; Apparently he never slept.
+
+
+
+<P>He was a dismal man, with a perpetual tear sparkling
+
+
+
+<P>at the end of his nose, who either had been in trouble, or
+
+
+
+<P>was in trouble, or expected to be in trouble--couldn't be
+
+
+
+<P>happy unless something went wrong.&nbsp; He mistrusted
+
+
+
+<P>my youth, my common-sense, and my seamanship, and
+
+
+
+<P>made a point of showing it in a hundred little ways.&nbsp; I
+
+
+
+<P>dare say he was right.&nbsp; It seems to me I knew very little
+
+
+
+<P>then, and I know not much more now; but I cherish a
+
+
+
+<P>hate for that Jermyn to this day.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We were a week working up as far as Yarmouth
+
+
+
+<P>Roads, and then we got into a gale--the famous October
+
+
+
+<P>gale of twenty-two years ago.&nbsp; It was wind, lightning,
+
+
+
+<P>sleet, snow, and a terrific sea.&nbsp; We were flying light, and
+
+
+
+<P>you may imagine how bad it was when I tell you we had
+
+
+
+<P>smashed bulwarks and a flooded deck.&nbsp; On the second
+
+
+
+<P>night she shifted her ballast into the lee bow, and by
+
+
+
+<P>that time we had been blown off somewhere on the Dogger
+
+
+
+<P>Bank.&nbsp; There was nothing for it but go below with
+
+
+
+<P>shovels and try to right her, and there we were in that
+
+
+
+<P>vast hold, gloomy like a cavern, the tallow dips stuck
+
+
+
+<P>and flickering on the beams, the gale howling above, the
+
+
+
+<P>ship tossing about like mad on her side; there we all
+
+
+
+<P>were, Jermyn, the captain, everyone, hardly able to keep
+
+
+
+<P>our feet, engaged on that gravedigger's work, and try-
+
+
+
+<P>ing to toss shovelfuls of wet sand up to windward.&nbsp; At
+
+
+
+<P>every tumble of the ship you could see vaguely in the
+
+
+
+<P>dim light men falling down with a great flourish of shov-
+
+
+
+<P>els.&nbsp; One of the ship's boys (we had two), impressed by
+
+
+
+<P>the weirdness of the scene, wept as if his heart would
+
+
+
+<P>break.&nbsp; We could hear him blubbering somewhere in the
+
+
+
+<P>shadows.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"On the third day the gale died out, and by-and-by a
+
+
+
+<P>north-country tug picked us up.&nbsp; We took sixteen days
+
+
+
+<P>in all to get from London to the Tyne!&nbsp; When we got
+
+
+
+<P>into dock we had lost our turn for loading, and they
+
+
+
+<P>hauled us off to a tier where we remained for a month.
+
+
+
+<P>Mrs. Beard (the captain's name was Beard) came from
+
+
+
+<P>Colchester to see the old man.&nbsp; She lived on board.&nbsp; The
+
+
+
+<P>crew of runners had left, and there remained only the
+
+
+
+<P>officers, one boy, and the steward, a mulatto who an-
+
+
+
+<P>swered to the name of Abraham.&nbsp; Mrs. Beard was an old
+
+
+
+<P>woman, with a race all wrinkled and ruddy like a winter
+
+
+
+<P>apple, and the figure of a young girl.&nbsp; She caught sight
+
+
+
+<P>of me once, sewing on a button, and insisted on having
+
+
+
+<P>my shirts to repair.&nbsp; This was something different from
+
+
+
+<P>the captains' wives I had known on board crack clippers.
+
+
+
+<P>When I brought her the shirts, she said: 'And the
+
+
+
+<P>socks?&nbsp; They want mending, I am sure, and John's--
+
+
+
+<P>Captain Beard's--things are all in order now.&nbsp; I would
+
+
+
+<P>be glad of something to do.'&nbsp; Bless the old woman.&nbsp; She
+
+
+
+<P>overhauled my outfit for me, and meantime I read for the
+
+
+
+<P>first time 'Sartor Resartus' and Burnaby's 'Ride to
+
+
+
+<P>Khiva.'&nbsp; I didn't understand much of the first then;
+
+
+
+<P>but I remember I preferred the soldier to the philosopher
+
+
+
+<P>at the time; a preference which life has only confirmed.
+
+
+
+<P>One was a man, and the other was either more--or less.
+
+
+
+<P>However, they are both dead, and Mrs. Beard is dead,
+
+
+
+<P>and youth, strength, genius, thoughts, achievements,
+
+
+
+<P>simple hearts--all die . . . .&nbsp; No matter.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"They loaded us at last.&nbsp; We shipped a crew.&nbsp; Eight
+
+
+
+<P>able seamen and two boys.&nbsp; We hauled off one evening
+
+
+
+<P>to the buoys at the dock-gates, ready to go out, and with
+
+
+
+<P>a fair prospect of beginning the voyage next day.&nbsp; Mrs.
+
+
+
+<P>Beard was to start for home by a late train.&nbsp; When the
+
+
+
+<P>ship was fast we went to tea.&nbsp; We sat rather silent
+
+
+
+<P>through the meal--Mahon, the old couple, and I.&nbsp; I
+
+
+
+<P>finished first, and slipped away for a smoke, my cabin
+
+
+
+<P>being in a deck-house just against the poop.&nbsp; It was high
+
+
+
+<P>water, blowing fresh with a drizzle; the double dock-
+
+
+
+<P>gates were opened, and the steam colliers were going in
+
+
+
+<P>and out in the darkness with their lights burning
+
+
+
+<P>bright, a great plashing of propellers, rattling of
+
+
+
+<P>winches, and a lot of hailing on the pier-heads.&nbsp; I watched
+
+
+
+<P>the procession of head-lights gliding high and of green
+
+
+
+<P>lights gliding low in the night, when suddenly a red
+
+
+
+<P>gleam flashed at me, vanished, came into view again, and
+
+
+
+<P>remained.&nbsp; The fore-end of a steamer loomed up close.
+
+
+
+<P>I shouted down the cabin, 'Come up, quick!' and then
+
+
+
+<P>heard a startled voice saying afar in the dark, 'Stop her,
+
+
+
+<P>sir.'&nbsp; A bell jingled.&nbsp; Another voice cried warningly,
+
+
+
+<P>'We are going right into that bark, sir.'&nbsp; The answer to
+
+
+
+<P>this was a gruff 'All right,' and the next thing was a
+
+
+
+<P>heavy crash as the steamer struck a glancing blow with
+
+
+
+<P>the bluff of her bow about our fore-rigging.&nbsp; There was
+
+
+
+<P>a moment of confusion, yelling, and running about.
+
+
+
+<P>Steam roared.&nbsp; Then somebody was heard saying, 'All
+
+
+
+<P>clear, sir.' . . . 'Are you all right?' asked the gruff
+
+
+
+<P>voice.&nbsp; I had jumped forward to see the damage, and
+
+
+
+<P>hailed back, 'I think so.'&nbsp; 'Easy astern,' said the gruff
+
+
+
+<P>voice.&nbsp; A bell jingled.&nbsp; 'What steamer is that?'
+
+
+
+<P>screamed Mahon.&nbsp; By that time she was no more to us
+
+
+
+<P>than a bulky shadow maneuvering a little way off.&nbsp; They
+
+
+
+<P>shouted at us some name--a woman's name, Miranda or
+
+
+
+<P>Melissa--or some such thing.&nbsp; 'This means another
+
+
+
+<P>month in this beastly hole,' said Mahon to me, as we
+
+
+
+<P>peered with lamps about the splintered bulwarks and
+
+
+
+<P>broken braces.&nbsp; 'But where's the captain?'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We had not heard or seen anything of him all that
+
+
+
+<P>time.&nbsp; We went aft to look.&nbsp; A doleful voice arose hail-
+
+
+
+<P>ing somewhere in the middle of the dock, 'Judea ahoy!'
+
+
+
+<P>. . . How the devil did he get there? . . . 'Hallo!'
+
+
+
+<P>we shouted.&nbsp; 'I am adrift in our boat without oars,' he
+
+
+
+<P>cried.&nbsp; A belated waterman offered his services, and
+
+
+
+<P>Mahon struck a bargain with him for half-a-crown to
+
+
+
+<P>tow our skipper alongside; but it was Mrs. Beard that
+
+
+
+<P>came up the ladder first.&nbsp; They had been floating about
+
+
+
+<P>the dock in that mizzly cold rain for nearly an hour.&nbsp; I
+
+
+
+<P>was never so surprised in my life.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"It appears that when he heard my shout 'Come up,'
+
+
+
+<P>he understood at once what was the matter, caught up
+
+
+
+<P>his wife, ran on deck, and across, and down into our boat,
+
+
+
+<P>which was fast to the ladder.&nbsp; Not bad for a sixty-year-
+
+
+
+<P>old.&nbsp; Just imagine that old fellow saving heroically in
+
+
+
+<P>his arms that old woman--the woman of his life.&nbsp; He
+
+
+
+<P>set her down on a thwart, and was ready to climb back
+
+
+
+<P>on board when the painter came adrift somehow, and
+
+
+
+<P>away they went together.&nbsp; Of course in the confusion
+
+
+
+<P>we did not hear him shouting.&nbsp; He looked abashed.&nbsp; She
+
+
+
+<P>said cheerfully, 'I suppose it does not matter my losing
+
+
+
+<P>the train now?'&nbsp; 'No, Jenny--you go below and get
+
+
+
+<P>warm,' he growled.&nbsp; Then to us: 'A sailor has no busi-
+
+
+
+<P>ness with a wife--I say.&nbsp; There I was, out of the ship.
+
+
+
+<P>Well, no harm done this time.&nbsp; Let's go and look at what
+
+
+
+<P>that fool of a steamer smashed.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"It wasn't much, but it delayed us three weeks.&nbsp; At
+
+
+
+<P>the end of that time, the captain being engaged with his
+
+
+
+<P>agents, I carried Mrs. Beard's bag to the railway-sta-
+
+
+
+<P>tion and put her all comfy into a third-class carriage.
+
+
+
+<P>She lowered the window to say, 'You are a good young
+
+
+
+<P>man.&nbsp; If you see John--Captain Beard--without his
+
+
+
+<P>muffler at night, just remind him from me to keep his
+
+
+
+<P>throat well wrapped up.'&nbsp; 'Certainly, Mrs. Beard,' I
+
+
+
+<P>said.&nbsp; 'You are a good young man; I noticed how at-
+
+
+
+<P>tentive you are to John--to Captain--'&nbsp; The train
+
+
+
+<P>pulled out suddenly; I took my cap off to the old
+
+
+
+<P>woman: I never saw her again. . . .&nbsp; Pass the bottle.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We went to sea next day.&nbsp; When we made that start
+
+
+
+<P>for Bankok we had been already three months out of
+
+
+
+<P>London.&nbsp; We had expected to be a fortnight or so--at
+
+
+
+<P>the outside.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"It was January, and the weather was beautiful--the
+
+
+
+<P>beautiful sunny winter weather that has more charm
+
+
+
+<P>than in the summer-time, because it is unexpected, and
+
+
+
+<P>crisp, and you know it won't, it can't, last long.&nbsp; It's
+
+
+
+<P>like a windfall, like a godsend, like an unexpected piece
+
+
+
+<P>of luck.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"It lasted all down the North Sea, all down Channel;
+
+
+
+<P>and it lasted till we were three hundred miles or so to the
+
+
+
+<P>westward of the Lizards: then the wind went round to
+
+
+
+<P>the sou'west and began to pipe up.&nbsp; In two days it blew
+
+
+
+<P>a gale.&nbsp; The Judea, hove to, wallowed on the Atlantic
+
+
+
+<P>like an old candlebox.&nbsp; It blew day after day: it blew
+
+
+
+<P>with spite, without interval, without mercy, without rest.
+
+
+
+<P>The world was nothing but an immensity of great foam-
+
+
+
+<P>ing waves rushing at us, under a sky low enough to
+
+
+
+<P>touch with the hand and dirty like a smoked ceiling.&nbsp; In
+
+
+
+<P>the stormy space surrounding us there was as much flying
+
+
+
+<P>spray as air.&nbsp; Day after day and night after night there
+
+
+
+<P>was nothing round the ship but the howl of the wind,
+
+
+
+<P>the tumult of the sea, the noise of water pouring over
+
+
+
+<P>her deck.&nbsp; There was no rest for her and no rest for us.
+
+
+
+<P>She tossed, she pitched, she stood on her head, she sat on
+
+
+
+<P>her tail, she rolled, she groaned, and we had to hold on
+
+
+
+<P>while on deck and cling to our bunks when below, in a
+
+
+
+<P>constant effort of body and worry of mind.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"One night Mahon spoke through the small window
+
+
+
+<P>of my berth.&nbsp; It opened right into my very bed, and I
+
+
+
+<P>was lying there sleepless, in my boots, feeling as though
+
+
+
+<P>I had not slept for years, and could not if I tried.&nbsp; He
+
+
+
+<P>said excitedly--
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'You got the sounding-rod in here, Marlow?&nbsp; I can't
+
+
+
+<P>get the pumps to suck.&nbsp; By God! it's no child's play.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"I gave him the sounding-rod and lay down again,
+
+
+
+<P>trying to think of various things--but I thought only
+
+
+
+<P>of the pumps.&nbsp; When I came on deck they were still at
+
+
+
+<P>it, and my watch relieved at the pumps.&nbsp; By the light of
+
+
+
+<P>the lantern brought on deck to examine the sounding-
+
+
+
+<P>rod I caught a glimpse of their weary, serious faces.
+
+
+
+<P>We pumped all the four hours.&nbsp; We pumped all night,
+
+
+
+<P>all day, all the week,--watch and watch.&nbsp; She was work-
+
+
+
+<P>ing herself loose, and leaked badly--not enough to
+
+
+
+<P>drown us at once, but enough to kill us with the work at
+
+
+
+<P>the pumps.&nbsp; And while we pumped the ship was going
+
+
+
+<P>from us piecemeal: the bulwarks went, the stanchions
+
+
+
+<P>were torn out, the ventilators smashed, the cabin-door
+
+
+
+<P>burst in.&nbsp; There was not a dry spot in the ship.&nbsp; She was
+
+
+
+<P>being gutted bit by bit.&nbsp; The long-boat changed, as if
+
+
+
+<P>by magic, into matchwood where she stood in her gripes.
+
+
+
+<P>I had lashed her myself, and was rather proud of my
+
+
+
+<P>handiwork, which had withstood so long the malice of
+
+
+
+<P>the sea.&nbsp; And we pumped.&nbsp; And there was no break in
+
+
+
+<P>the weather.&nbsp; The sea was white like a sheet of foam,
+
+
+
+<P>like a caldron of boiling milk; there was not a break in
+
+
+
+<P>the clouds, no--not the size of a man's hand--no, not
+
+
+
+<P>for so much as ten seconds.&nbsp; There was for us no sky,
+
+
+
+<P>there were for us no stars, no sun, no universe--nothing
+
+
+
+<P>but angry clouds and an infuriated sea.&nbsp; We pumped
+
+
+
+<P>watch and watch, for dear life; and it seemed to last for
+
+
+
+<P>months, for years, for all eternity, as though we had been
+
+
+
+<P>dead and gone to a hell for sailors.&nbsp; We forgot the day
+
+
+
+<P>of the week, the name of the month, what year it was,
+
+
+
+<P>and whether we had ever been ashore.&nbsp; The sails blew
+
+
+
+<P>away, she lay broadside on under a weather-cloth, the
+
+
+
+<P>ocean poured over her, and we did not care.&nbsp; We turned
+
+
+
+<P>those handles, and had the eyes of idiots.&nbsp; As soon as we
+
+
+
+<P>had crawled on deck I used to take a round turn with a
+
+
+
+<P>rope about the men, the pumps, and the mainmast, and
+
+
+
+<P>we turned, we turned incessantly, with the water to our
+
+
+
+<P>waists, to our necks, over our heads.&nbsp; It was all one.
+
+
+
+<P>We had forgotten how it felt to be dry.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"And there was somewhere in me the thought: By
+
+
+
+<P>Jove! this is the deuce of an adventure--something you
+
+
+
+<P>read about; and it is my first voyage as second mate--
+
+
+
+<P>and I am only twenty--and here I am lasting it out as
+
+
+
+<P>well as any of these men, and keeping my chaps up to
+
+
+
+<P>the mark.&nbsp; I was pleased.&nbsp; I would not have given up
+
+
+
+<P>the experience for worlds.&nbsp; I had moments of exultation.
+
+
+
+<P>Whenever the old dismantled craft pitched heavily with
+
+
+
+<P>her counter high in the air, she seemed to me to throw
+
+
+
+<P>up, like an appeal, like a defiance, like a cry to the clouds
+
+
+
+<P>without mercy, the words written on her stern: 'Judea,
+
+
+
+<P>London.&nbsp; Do or Die.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"O youth!&nbsp; The strength of it, the faith of it, the
+
+
+
+<P>imagination of it!&nbsp; To me she was not an old rattle-trap
+
+
+
+<P>carting about the world a lot of coal for a freight--to
+
+
+
+<P>me she was the endeavor, the test, the trial of life.&nbsp; I
+
+
+
+<P>think of her with pleasure, with affection, with regret--
+
+
+
+<P>as you would think of someone dead you have loved.&nbsp; I
+
+
+
+<P>shall never forget her. . . .&nbsp; Pass the bottle.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"One night when tied to the mast, as I explained, we
+
+
+
+<P>were pumping on, deafened with the wind, and without
+
+
+
+<P>spirit enough in us to wish ourselves dead, a heavy sea
+
+
+
+<P>crashed aboard and swept clean over us.&nbsp; As soon as I
+
+
+
+<P>got my breath I shouted, as in duty bound, 'Keep on,
+
+
+
+<P>boys!' when suddenly I felt something hard floating on
+
+
+
+<P>deck strike the calf of my leg.&nbsp; I made a grab at it and
+
+
+
+<P>missed.&nbsp; It was so dark we could not see each other's
+
+
+
+<P>faces within a foot--you understand.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"After that thump the ship kept quiet for a while,
+
+
+
+<P>and the thing, whatever it was, struck my leg again.
+
+
+
+<P>This time I caught it--and it was a sauce-pan.&nbsp; At first,
+
+
+
+<P>being stupid with fatigue and thinking of nothing but
+
+
+
+<P>the pumps, I did not understand what I had in my hand.
+
+
+
+<P>Suddenly it dawned upon me, and I shouted, 'Boys, the
+
+
+
+<P>house on deck is gone.&nbsp; Leave this, and let's look for the
+
+
+
+<P>cook.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"There was a deck-house forward, which contained
+
+
+
+<P>the galley, the cook's berth, and the quarters of the
+
+
+
+<P>crew.&nbsp; As we had expected for days to see it swept away,
+
+
+
+<P>the hands had been ordered to sleep in the cabin--the
+
+
+
+<P>only safe place in the ship.&nbsp; The steward, Abraham,
+
+
+
+<P>however, persisted in clinging to his berth, stupidly, like
+
+
+
+<P>a mule--from sheer fright I believe, like an animal that
+
+
+
+<P>on't leave a stable falling in an earthquake.&nbsp; So we
+
+
+
+<P>went to look for him.&nbsp; It was chancing death, since once
+
+
+
+<P>out of our lashings we were as exposed as if on a raft.
+
+
+
+<P>But we went.&nbsp; The house was shattered as if a shell had
+
+
+
+<P>exploded inside.&nbsp; Most of it had gone overboard--stove,
+
+
+
+<P>men's quarters, and their property, all was gone; but
+
+
+
+<P>two posts, holding a portion of the bulkhead to which
+
+
+
+<P>Abraham's bunk was attached, remained as if by a mir-
+
+
+
+<P>acle.&nbsp; We groped in the ruins and came upon this, and
+
+
+
+<P>there he was, sitting in his bunk, surrounded by foam and
+
+
+
+<P>wreckage, jabbering cheerfully to himself.&nbsp; He was out
+
+
+
+<P>of his mind; completely and for ever mad, with this
+
+
+
+<P>sudden shock coming upon the fag-end of his endurance.
+
+
+
+<P>We snatched him up, lugged him aft, and pitched him
+
+
+
+<P>head-first down the cabin companion.&nbsp; You understand
+
+
+
+<P>there was no time to carry him down with infinite pre-
+
+
+
+<P>cautions and wait to see how he got on.&nbsp; Those below
+
+
+
+<P>would pick him up at the bottom of the stairs all right.
+
+
+
+<P>We were in a hurry to go back to the pumps.&nbsp; That busi-
+
+
+
+<P>ness could not wait.&nbsp; A bad leak is an inhuman thing.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"One would think that the sole purpose of that fiend-
+
+
+
+<P>ish gale had been to make a lunatic of that poor devil of
+
+
+
+<P>a mulatto.&nbsp; It eased before morning, and next day the
+
+
+
+<P>sky cleared, and as the sea went down the leak took up.
+
+
+
+<P>When it came to bending a fresh set of sails the crew
+
+
+
+<P>demanded to put back--and really there was nothing else
+
+
+
+<P>to do.&nbsp; Boats gone, decks swept clean, cabin gutted, men
+
+
+
+<P>without a stitch but what they stood in, stores spoiled,
+
+
+
+<P>ship strained.&nbsp; We put her head for home, and--would
+
+
+
+<P>you believe it?&nbsp; The wind came east right in our teeth.
+
+
+
+<P>It blew fresh, it blew continuously.&nbsp; We had to beat up
+
+
+
+<P>every inch of the way, but she did not leak so badly,
+
+
+
+<P>the water keeping comparatively smooth.&nbsp; Two hours'
+
+
+
+<P>pumping in every four is no joke--but it kept her afloat
+
+
+
+<P>as far as Falmouth.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The good people there live on casualties of the sea,
+
+
+
+<P>and no doubt were glad to see us.&nbsp; A hungry crowd of
+
+
+
+<P>shipwrights sharpened their chisels at the sight of that
+
+
+
+<P>carcass of a ship.&nbsp; And, by Jove! they had pretty pick-
+
+
+
+<P>ings off us before they were done.&nbsp; I fancy the owner
+
+
+
+<P>was already in a tight place.&nbsp; There were delays.&nbsp; Then
+
+
+
+<P>it was decided to take part of the cargo out and calk her
+
+
+
+<P>topsides.&nbsp; This was done, the repairs finished, cargo re-
+
+
+
+<P>shipped; a new crew came on board, and we went out--
+
+
+
+<P>for Bankok.&nbsp; At the end of a week we were back again.
+
+
+
+<P>The crew said they weren't going to Bankok--a hundred
+
+
+
+<P>and fifty days' passage--in a something hooker that
+
+
+
+<P>wanted pumping eight hours out of the twenty-four;
+
+
+
+<P>and the nautical papers inserted again the little para-
+
+
+
+<P>graph: 'Judea.&nbsp; Bark.&nbsp; Tyne to Bankok; coals; put
+
+
+
+<P>back to Falmouth leaky and with crew refusing duty.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"There were more delays--more tinkering.&nbsp; The
+
+
+
+<P>owner came down for a day, and said she was as right as
+
+
+
+<P>a little fiddle.&nbsp; Poor old Captain Beard looked like the
+
+
+
+<P>ghost of a Geordie skipper--through the worry and
+
+
+
+<P>humiliation of it.&nbsp; Remember he was sixty, and it was his
+
+
+
+<P>first command.&nbsp; Mahon said it was a foolish business,
+
+
+
+<P>and would end badly.&nbsp; I loved the ship more than ever,
+
+
+
+<P>and wanted awfully to get to Bankok.&nbsp; To Bankok!
+
+
+
+<P>Magic name, blessed name.&nbsp; Mesopotamia wasn't a patch
+
+
+
+<P>n it.&nbsp; Remember I was twenty, and it was my first second
+
+
+
+<P>mate's billet, and the East was waiting for me.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We went out and anchored in the outer roads with a
+
+
+
+<P>fresh crew--the third.&nbsp; She leaked worse than ever.
+
+
+
+<P>It was as if those confounded shipwrights had actually
+
+
+
+<P>made a hole in her.&nbsp; This time we did not even
+
+
+
+<P>go outside.&nbsp; The crew simply refused to man the
+
+
+
+<P>windlass.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"They towed us back to the inner harbor, and we be-
+
+
+
+<P>came a fixture, a feature, an institution of the place.
+
+
+
+<P>People pointed us out to visitors as 'That 'ere bark
+
+
+
+<P>that's going to Bankok--has been here six months--put
+
+
+
+<P>back three times.'&nbsp; On holidays the small boys pulling
+
+
+
+<P>about in boats would hail, 'Judea, ahoy!' and if a head
+
+
+
+<P>showed above the rail shouted, 'Where you bound to?--
+
+
+
+<P>Bankok?' and jeered.&nbsp; We were only three on board.
+
+
+
+<P>The poor old skipper mooned in the cabin.&nbsp; Mahon un-
+
+
+
+<P>dertook the cooking, and unexpectedly developed all a
+
+
+
+<P>Frenchman's genius for preparing nice little messes.&nbsp; I
+
+
+
+<P>looked languidly after the rigging.&nbsp; We became citizens
+
+
+
+<P>of Falmouth.&nbsp; Every shopkeeper knew us.&nbsp; At the bar-
+
+
+
+<P>ber's or tobacconist's they asked familiarly, 'Do you
+
+
+
+<P>think you will ever get to Bankok?'&nbsp; Meantime the
+
+
+
+<P>owner, the underwriters, and the charterers squabbled
+
+
+
+<P>amongst themselves in London, and our pay went on.
+
+
+
+<P>. . .&nbsp; Pass the bottle.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"It was horrid.&nbsp; Morally it was worse than pumping
+
+
+
+<P>for life.&nbsp; It seemed as though we had been forgotten by
+
+
+
+<P>the world, belonged to nobody, would get nowhere; it
+
+
+
+<P>seemed that, as if bewitched, we would have to live for
+
+
+
+<P>ever and ever in that inner harbor, a derision and a by-
+
+
+
+<P>word to generations of long-shore loafers and dishonest
+
+
+
+<P>boatmen.&nbsp; I obtained three months' pay and a five days'
+
+
+
+<P>leave, and made a rush for London.&nbsp; It took me a day
+
+
+
+<P>to get there and pretty well another to come back--but
+
+
+
+<P>three months' pay went all the same.&nbsp; I don't know what
+
+
+
+<P>I did with it.&nbsp; I went to a music-hall, I believe, lunched,
+
+
+
+<P>dined, and supped in a swell place in Regent Street, and
+
+
+
+<P>was back to time, with nothing but a complete set of
+
+
+
+<P>Byron's works and a new railway rug to show for three
+
+
+
+<P>months' work.&nbsp; The boatman who pulled me off to the
+
+
+
+<P>ship said: 'Hallo!&nbsp; I thought you had left the old thing.
+
+
+
+<P>SHE will never get to Bankok.'&nbsp; 'That's all YOU know
+
+
+
+<P>about it,' I said scornfully--but I didn't like that proph-
+
+
+
+<P>ecy at all.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Suddenly a man, some kind of agent to somebody,
+
+
+
+<P>appeared with full powers.&nbsp; He had grog blossoms all
+
+
+
+<P>over his face, an indomitable energy, and was a jolly
+
+
+
+<P>soul.&nbsp; We leaped into life again.&nbsp; A hulk came along-
+
+
+
+<P>side, took our cargo, and then we went into dry dock to
+
+
+
+<P>get our copper stripped.&nbsp; No wonder she leaked.&nbsp; The
+
+
+
+<P>poor thing, strained beyond endurance by the gale, had,
+
+
+
+<P>as if in disgust, spat out all the oakum of her lower
+
+
+
+<P>seams.&nbsp; She was recalked, new coppered, and made as
+
+
+
+<P>tight as a bottle.&nbsp; We went back to the hulk and re-
+
+
+
+<P>shipped our cargo.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Then on a fine moonlight night, all the rats left the
+
+
+
+<P>ship.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We had been infested with them.&nbsp; They had destroyed
+
+
+
+<P>our sails, consumed more stores than the crew, affably
+
+
+
+<P>shared our beds and our dangers, and now, when the
+
+
+
+<P>ship was made seaworthy, concluded to clear out.&nbsp; I
+
+
+
+<P>called Mahon to enjoy the spectacle.&nbsp; Rat after rat ap-
+
+
+
+<P>peared on our rail, took a last look over his shoulder,
+
+
+
+<P>and leaped with a hollow thud into the empty hulk.
+
+
+
+<P>We tried to count them, but soon lost the tale.&nbsp; Mahon
+
+
+
+<P>said: 'Well, well! don't talk to me about the intelligence
+
+
+
+<P>of rats.&nbsp; They ought to have left before, when we had
+
+
+
+<P>that narrow squeak from foundering.&nbsp; There you have
+
+
+
+<P>the proof how silly is the superstition about them.&nbsp; They
+
+
+
+<P>leave a good ship for an old rotten hulk, where there is
+
+
+
+<P>nothing to eat, too, the fools! . . .&nbsp; I don't believe they
+
+
+
+<P>know what is safe or what is good for them, any more
+
+
+
+<P>than you or I.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"And after some more talk we agreed that the wisdom
+
+
+
+<P>of rats had been grossly overrated, being in fact no
+
+
+
+<P>greater than that of men.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The story of the ship was known, by this, all up the
+
+
+
+<P>Channel from Land's End to the Forelands, and we
+
+
+
+<P>could get no crew on the south coast.&nbsp; They sent us one
+
+
+
+<P>all complete from Liverpool, and we left once more--for
+
+
+
+<P>Bankok.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We had fair breezes, smooth water right into the
+
+
+
+<P>tropics, and the old Judea lumbered along in the sun-
+
+
+
+<P>shine.&nbsp; When she went eight knots everything cracked
+
+
+
+<P>aloft, and we tied our caps to our heads; but mostly she
+
+
+
+<P>strolled on at the rate of three miles an hour.&nbsp; What
+
+
+
+<P>could you expect?&nbsp; She was tired--that old ship.&nbsp; Her
+
+
+
+<P>youth was where mine is--where yours is--you fellows
+
+
+
+<P>who listen to this yarn; and what friend would throw
+
+
+
+<P>your years and your weariness in your face?&nbsp; We didn't
+
+
+
+<P>grumble at her.&nbsp; To us aft, at least, it seemed as though
+
+
+
+<P>we had been born in her, reared in her, had lived in her
+
+
+
+<P>for ages, had never known any other ship.&nbsp; I would
+
+
+
+<P>just as soon have abused the old village church at home
+
+
+
+<P>for not being a cathedral.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"And for me there was also my youth to make me pa-
+
+
+
+<P>tient.&nbsp; There was all the East before me, and all life, and
+
+
+
+<P>the thought that I had been tried in that ship and had
+
+
+
+<P>come out pretty well.&nbsp; And I thought of men of old who,
+
+
+
+<P>centuries ago, went that road in ships that sailed no
+
+
+
+<P>better, to the land of palms, and spices, and yellow sands,
+
+
+
+<P>and of brown nations ruled by kings more cruel than
+
+
+
+<P>Nero the Roman and more splendid than Solomon the
+
+
+
+<P>Jew.&nbsp; The old bark lumbered on, heavy with her age
+
+
+
+<P>and the burden of her cargo, while I lived the life of
+
+
+
+<P>youth in ignorance and hope.&nbsp; She lumbered on through
+
+
+
+<P>an interminable procession of days; and the fresh gild-
+
+
+
+<P>ing flashed back at the setting sun, seemed to cry out
+
+
+
+<P>over the darkening sea the words painted on her stern,
+
+
+
+<P>'Judea, London.&nbsp; Do or Die.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Then we entered the Indian Ocean and steered north-
+
+
+
+<P>erly for Java Head.&nbsp; The winds were light.&nbsp; Weeks
+
+
+
+<P>slipped by.&nbsp; She crawled on, do or die, and people at
+
+
+
+<P>home began to think of posting us as overdue.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"One Saturday evening, I being off duty, the men
+
+
+
+<P>asked me to give them an extra bucket of water or so--
+
+
+
+<P>for washing clothes.&nbsp; As I did not wish to screw on the
+
+
+
+<P>fresh-water pump so late, I went forward whistling, and
+
+
+
+<P>with a key in my hand to unlock the forepeak scuttle,
+
+
+
+<P>intending to serve the water out of a spare tank we kept
+
+
+
+<P>there.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The smell down below was as unexpected as it was
+
+
+
+<P>frightful.&nbsp; One would have thought hundreds of par-
+
+
+
+<P>affin-lamps had been flaring and smoking in that hole
+
+
+
+<P>for days.&nbsp; I was glad to get out.&nbsp; The man with me
+
+
+
+<P>coughed and said, 'Funny smell, sir.'&nbsp; I answered negli-
+
+
+
+<P>gently, 'It's good for the health, they say,' and walked
+
+
+
+<P>aft.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The first thing I did was to put my head down the
+
+
+
+<P>square of the midship ventilator.&nbsp; As I lifted the lid a
+
+
+
+<P>visible breath, something like a thin fog, a puff of faint
+
+
+
+<P>haze, rose from the opening.&nbsp; The ascending air was hot,
+
+
+
+<P>and had a heavy, sooty, paraffiny smell.&nbsp; I gave one sniff,
+
+
+
+<P>and put down the lid gently.&nbsp; It was no use choking my-
+
+
+
+<P>self.&nbsp; The cargo was on fire.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Next day she began to smoke in earnest.&nbsp; You see it
+
+
+
+<P>was to be expected, for though the coal was of a safe
+
+
+
+<P>kind, that cargo had been so handled, so broken up with
+
+
+
+<P>handling, that it looked more like smithy coal than any-
+
+
+
+<P>thing else.&nbsp; Then it had been wetted--more than once.
+
+
+
+<P>It rained all the time we were taking it back from the
+
+
+
+<P>hulk, and now with this long passage it got heated, and
+
+
+
+<P>there was another case of spontaneous combustion.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The captain called us into the cabin.&nbsp; He had a chart
+
+
+
+<P>spread on the table, and looked unhappy.&nbsp; He said, 'The
+
+
+
+<P>coast of West Australia is near, but I mean to proceed
+
+
+
+<P>to our destination.&nbsp; It is the hurricane month too; but
+
+
+
+<P>we will just keep her head for Bankok, and fight the fire.
+
+
+
+<P>No more putting back anywhere, if we all get roasted.
+
+
+
+<P>We will try first to stifle this 'ere damned combustion by
+
+
+
+<P>want of air.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We tried.&nbsp; We battened down everything, and still
+
+
+
+<P>she smoked.&nbsp; The smoke kept coming out through im-
+
+
+
+<P>perceptible crevices; it forced itself through bulkheads
+
+
+
+<P>and covers; it oozed here and there and everywhere in
+
+
+
+<P>slender threads, in an invisible film, in an incomprehen-
+
+
+
+<P>sible manner.&nbsp; It made its way into the cabin, into the
+
+
+
+<P>forecastle; it poisoned the sheltered places on the deck,
+
+
+
+<P>it could be sniffed as high as the mainyard.&nbsp; It was
+
+
+
+<P>clear that if the smoke came out the air came in.&nbsp; This
+
+
+
+<P>was disheartening.&nbsp; This combustion refused to be stifled.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We resolved to try water, and took the hatches off.
+
+
+
+<P>Enormous volumes of smoke, whitish, yellowish, thick,
+
+
+
+<P>greasy, misty, choking, ascended as high as the trucks.
+
+
+
+<P>All hands cleared out aft.&nbsp; Then the poisonous cloud
+
+
+
+<P>blew away, and we went back to work in a smoke that
+
+
+
+<P>was no thicker now than that of an ordinary factory
+
+
+
+<P>chimney.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We rigged the force pump, got the hose along, and
+
+
+
+<P>by-and-by it burst.&nbsp; Well, it was as old as the ship--a
+
+
+
+<P>prehistoric hose, and past repair.&nbsp; Then we pumped with
+
+
+
+<P>the feeble head-pump, drew water with buckets, and in
+
+
+
+<P>this way managed in time to pour lots of Indian Ocean
+
+
+
+<P>into the main hatch.&nbsp; The bright stream flashed in sun-
+
+
+
+<P>shine, fell into a layer of white crawling smoke, and van-
+
+
+
+<P>ished on the black surface of coal.&nbsp; Steam ascended
+
+
+
+<P>mingling with the smoke.&nbsp; We poured salt water as into
+
+
+
+<P>a barrel without a bottom.&nbsp; It was our fate to pump in
+
+
+
+<P>that ship, to pump out of her, to pump into her; and
+
+
+
+<P>after keeping water out of her to save ourselves from
+
+
+
+<P>being drowned, we frantically poured water into her to
+
+
+
+<P>save ourselves from being burnt.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"And she crawled on, do or die, in the serene weather.
+
+
+
+<P>The sky was a miracle of purity, a miracle of azure.
+
+
+
+<P>The sea was polished, was blue, was pellucid, was spark-
+
+
+
+<P>ling like a precious stone, extending on all sides, all
+
+
+
+<P>round to the horizon--as if the whole terrestrial globe
+
+
+
+<P>had been one jewel, one colossal sapphire, a single gem
+
+
+
+<P>fashioned into a planet.&nbsp; And on the luster of the great
+
+
+
+<P>calm waters the Judea glided imperceptibly, enveloped
+
+
+
+<P>in languid and unclean vapors, in a lazy cloud that
+
+
+
+<P>drifted to leeward, light and slow: a pestiferous cloud
+
+
+
+<P>defiling the splendor of sea and sky.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"All this time of course we saw no fire.&nbsp; The cargo
+
+
+
+<P>smoldered at the bottom somewhere.&nbsp; Once Mahon, as
+
+
+
+<P>we were working side by side, said to me with a queer
+
+
+
+<P>smile: 'Now, if she only would spring a tidy leak--
+
+
+
+<P>like that time when we first left the Channel--it would
+
+
+
+<P>put a stopper on this fire.&nbsp; Wouldn't it?'&nbsp; I remarked
+
+
+
+<P>irrelevantly, 'Do you remember the rats?'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We fought the fire and sailed the ship too as carefully
+
+
+
+<P>as though nothing had been the matter.&nbsp; The steward
+
+
+
+<P>cooked and attended on us.&nbsp; Of the other twelve men,
+
+
+
+<P>eight worked while four rested.&nbsp; Everyone took his
+
+
+
+<P>turn, captain included.&nbsp; There was equality, and if not
+
+
+
+<P>exactly fraternity, then a deal of good feeling.&nbsp; Some-
+
+
+
+<P>times a man, as he dashed a bucketful of water down the
+
+
+
+<P>hatchway, would yell out, 'Hurrah for Bankok!' and the
+
+
+
+<P>rest laughed.&nbsp; But generally we were taciturn and seri-
+
+
+
+<P>ous--and thirsty.&nbsp; Oh! how thirsty!&nbsp; And we had to be
+
+
+
+<P>careful with the water.&nbsp; Strict allowance.&nbsp; The ship
+
+
+
+<P>smoked, the sun blazed. . . .&nbsp; Pass the bottle.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We tried everything.&nbsp; We even made an attempt to
+
+
+
+<P>dig down to the fire.&nbsp; No good, of course.&nbsp; No man
+
+
+
+<P>could remain more than a minute below.&nbsp; Mahon, who
+
+
+
+<P>went first, fainted there, and the man who went to fetch
+
+
+
+<P>him out did likewise.&nbsp; We lugged them out on deck.
+
+
+
+<P>Then I leaped down to show how easily it could be done.
+
+
+
+<P>They had learned wisdom by that time, and contented
+
+
+
+<P>themselves by fishing for me with a chain-hook tied to a
+
+
+
+<P>broom-handle, I believe.&nbsp; I did not offer to go and fetch
+
+
+
+<P>up my shovel, which was left down below.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Things began to look bad.&nbsp; We put the long-boat
+
+
+
+<P>into the water.&nbsp; The second boat was ready to swing out.
+
+
+
+<P>We had also another, a fourteen-foot thing, on davits
+
+
+
+<P>aft, where it was quite safe.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Then behold, the smoke suddenly decreased.&nbsp; We re-
+
+
+
+<P>doubled our efforts to flood the bottom of the ship.&nbsp; In
+
+
+
+<P>two days there was no smoke at all.&nbsp; Everybody was on
+
+
+
+<P>the broad grin.&nbsp; This was on a Friday.&nbsp; On Saturday no
+
+
+
+<P>work, but sailing the ship of course was done.&nbsp; The men
+
+
+
+<P>washed their clothes and their faces for the first time in
+
+
+
+<P>a fortnight, and had a special dinner given them.&nbsp; They
+
+
+
+<P>spoke of spontaneous combustion with contempt, and
+
+
+
+<P>implied THEY were the boys to put out combustions.&nbsp; Some-
+
+
+
+<P>how we all felt as though we each had inherited a large
+
+
+
+<P>fortune.&nbsp; But a beastly smell of burning hung about the
+
+
+
+<P>ship.&nbsp; Captain Beard had hollow eyes and sunken cheeks.
+
+
+
+<P>I had never noticed so much before how twisted and
+
+
+
+<P>bowed he was.&nbsp; He and Mahon prowled soberly about
+
+
+
+<P>hatches and ventilators, sniffing.&nbsp; It struck me suddenly
+
+
+
+<P>poor Mahon was a very, very old chap.&nbsp; As to me, I was
+
+
+
+<P>as pleased and proud as though I had helped to win a
+
+
+
+<P>great naval battle.&nbsp; O!&nbsp; Youth!
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The night was fine.&nbsp; In the morning a homeward-
+
+
+
+<P>bound ship passed us hull down,--the first we had seen
+
+
+
+<P>for months; but we were nearing the land at last, Java
+
+
+
+<P>Head being about 190 miles off, and nearly due
+
+
+
+<P>north.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Next day it was my watch on deck from eight to
+
+
+
+<P>twelve.&nbsp; At breakfast the captain observed, 'It's wonder-
+
+
+
+<P>ful how that smell hangs about the cabin.'&nbsp; About ten,
+
+
+
+<P>the mate being on the poop, I stepped down on the main-
+
+
+
+<P>deck for a moment.&nbsp; The carpenter's bench stood abaft
+
+
+
+<P>the mainmast: I leaned against it sucking at my pipe,
+
+
+
+<P>and the carpenter, a young chap, came to talk to me.&nbsp; He
+
+
+
+<P>remarked, 'I think we have done very well, haven't we?'
+
+
+
+<P>and then I perceived with annoyance the fool was try-
+
+
+
+<P>ing to tilt the bench.&nbsp; I said curtly, 'Don't, Chips,' and
+
+
+
+<P>immediately became aware of a queer sensation, of an
+
+
+
+<P>absurd delusion,--I seemed somehow to be in the air.&nbsp; I
+
+
+
+<P>heard all round me like a pent-up breath released--as
+
+
+
+<P>if a thousand giants simultaneously had said Phoo!--
+
+
+
+<P>and felt a dull concussion which made my ribs ache sud-
+
+
+
+<P>denly.&nbsp; No doubt about it--I was in the air, and my
+
+
+
+<P>body was describing a short parabola.&nbsp; But short as it
+
+
+
+<P>was, I had the time to think several thoughts in, as far
+
+
+
+<P>as I can remember, the following order: 'This can't be
+
+
+
+<P>the carpenter--What is it?--Some accident--Submarine
+
+
+
+<P>volcano?--Coals, gas!--By Jove! we are being blown
+
+
+
+<P>up--Everybody's dead--I am falling into the after-
+
+
+
+<P>hatch--I see fire in it.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The coal-dust suspended in the air of the hold had
+
+
+
+<P>glowed dull-red at the moment of the explosion.&nbsp; In
+
+
+
+<P>the twinkling of an eye, in an infinitesimal fraction of a
+
+
+
+<P>second since the first tilt of the bench, I was sprawling
+
+
+
+<P>full length on the cargo.&nbsp; I picked myself up and scram-
+
+
+
+<P>bled out.&nbsp; It was quick like a rebound.&nbsp; The deck was a
+
+
+
+<P>wilderness of smashed timber, lying crosswise like trees in
+
+
+
+<P>a wood after a hurricane; an immense curtain of soiled
+
+
+
+<P>rags waved gently before me--it was the mainsail blown
+
+
+
+<P>to strips.&nbsp; I thought, The masts will be toppling over
+
+
+
+<P>directly; and to get out of the way bolted on all-fours
+
+
+
+<P>towards the poop-ladder.&nbsp; The first person I saw was
+
+
+
+<P>Mahon, with eyes like saucers, his mouth open, and the
+
+
+
+<P>long white hair standing straight on end round his head
+
+
+
+<P>like a silver halo.&nbsp; He was just about to go down when
+
+
+
+<P>the sight of the main-deck stirring, heaving up, and
+
+
+
+<P>changing into splinters before his eyes, petrified him on
+
+
+
+<P>the top step.&nbsp; I stared at him in unbelief, and he stared
+
+
+
+<P>at me with a queer kind of shocked curiosity.&nbsp; I did not
+
+
+
+<P>know that I had no hair, no eyebrows, no eyelashes, that
+
+
+
+<P>my young mustache was burnt off, that my face was
+
+
+
+<P>black, one cheek laid open, my nose cut, and my chin
+
+
+
+<P>bleeding.&nbsp; I had lost my cap, one of my slippers, and
+
+
+
+<P>my shirt was torn to rags.&nbsp; Of all this I was not aware.
+
+
+
+<P>I was amazed to see the ship still afloat, the poop-deck
+
+
+
+<P>whole--and, most of all, to see anybody alive.&nbsp; Also
+
+
+
+<P>the peace of the sky and the serenity of the sea were
+
+
+
+<P>istinctly surprising.&nbsp; I suppose I expected to see them
+
+
+
+<P>convulsed with horror. . . .&nbsp; Pass the bottle.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"There was a voice hailing the ship from somewhere
+
+
+
+<P>--in the air, in the sky--I couldn't tell.&nbsp; Presently I
+
+
+
+<P>saw the captain--and he was mad.&nbsp; He asked me eagerly,
+
+
+
+<P>'Where's the cabin-table?' and to hear such a question
+
+
+
+<P>was a frightful shock.&nbsp; I had just been blown up, you
+
+
+
+<P>understand, and vibrated with that experience,--I wasn't
+
+
+
+<P>quite sure whether I was alive.&nbsp; Mahon began to stamp
+
+
+
+<P>with both feet and yelled at him, 'Good God! don't you
+
+
+
+<P>see the deck's blown out of her?'&nbsp; I found my voice, and
+
+
+
+<P>stammered out as if conscious of some gross neglect of
+
+
+
+<P>duty, 'I don't know where the cabin-table is.'&nbsp; It was
+
+
+
+<P>like an absurd dream.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Do you know what he wanted next?&nbsp; Well, he
+
+
+
+<P>wanted to trim the yards.&nbsp; Very placidly, and as if lost
+
+
+
+<P>in thought, he insisted on having the foreyard squared.
+
+
+
+<P>'I don't know if there's anybody alive,' said Mahon,
+
+
+
+<P>almost tearfully.&nbsp; 'Surely,' he said gently, 'there will
+
+
+
+<P>be enough left to square the foreyard.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The old chap, it seems, was in his own berth, wind-
+
+
+
+<P>ing up the chronometers, when the shock sent him spin-
+
+
+
+<P>ning.&nbsp; Immediately it occurred to him--as he said after-
+
+
+
+<P>wards--that the ship had struck something, and he ran
+
+
+
+<P>out into the cabin.&nbsp; There, he saw, the cabin-table had
+
+
+
+<P>vanished somewhere.&nbsp; The deck being blown up, it had
+
+
+
+<P>fallen down into the lazarette of course.&nbsp; Where we had
+
+
+
+<P>our breakfast that morning he saw only a great hole in
+
+
+
+<P>the floor.&nbsp; This appeared to him so awfully mysterious,
+
+
+
+<P>and impressed him so immensely, that what he saw and
+
+
+
+<P>heard after he got on deck were mere trifles in com-
+
+
+
+<P>parison.&nbsp; And, mark, he noticed directly the wheel de-
+
+
+
+<P>serted and his bark off her course--and his only
+
+
+
+<P>thought was to get that miserable, stripped, undecked,
+
+
+
+<P>smoldering shell of a ship back again with her head
+
+
+
+<P>pointing at her port of destination.&nbsp; Bankok!&nbsp; That's
+
+
+
+<P>what he was after.&nbsp; I tell you this quiet, bowed, bandy-
+
+
+
+<P>legged, almost deformed little man was immense in the
+
+
+
+<P>singleness of his idea and in his placid ignorance of
+
+
+
+<P>our agitation.&nbsp; He motioned us forward with a com-
+
+
+
+<P>manding gesture, and went to take the wheel him-
+
+
+
+<P>self.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Yes; that was the first thing we did--trim the yards
+
+
+
+<P>of that wreck!&nbsp; No one was killed, or even disabled, but
+
+
+
+<P>everyone was more or less hurt.&nbsp; You should have seen
+
+
+
+<P>them!&nbsp; Some were in rags, with black faces, like coal-
+
+
+
+<P>heavers, like sweeps, and had bullet heads that seemed
+
+
+
+<P>closely cropped, but were in fact singed to the skin.
+
+
+
+<P>Others, of the watch below, awakened by being shot out
+
+
+
+<P>from their collapsing bunks, shivered incessantly, and
+
+
+
+<P>kept on groaning even as we went about our work.&nbsp; But
+
+
+
+<P>they all worked.&nbsp; That crew of Liverpool hard cases had
+
+
+
+<P>in them the right stuff.&nbsp; It's my experience they always
+
+
+
+<P>have.&nbsp; It is the sea that gives it--the vastness, the lone-
+
+
+
+<P>liness surrounding their dark stolid souls.&nbsp; Ah!&nbsp; Well!
+
+
+
+<P>we stumbled, we crept, we fell, we barked our shins on
+
+
+
+<P>the wreckage, we hauled.&nbsp; The masts stood, but we did
+
+
+
+<P>not know how much they might be charred down below.
+
+
+
+<P>It was nearly calm, but a long swell ran from the west
+
+
+
+<P>and made her roll.&nbsp; They might go at any moment.&nbsp; We
+
+
+
+<P>looked at them with apprehension.&nbsp; One could not fore-
+
+
+
+<P>see which way they would fall.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Then we retreated aft and looked about us.&nbsp; The
+
+
+
+<P>deck was a tangle of planks on edge, of planks on end,
+
+
+
+<P>of splinters, of ruined woodwork.&nbsp; The masts rose from
+
+
+
+<P>that chaos like big trees above a matted undergrowth.
+
+
+
+<P>The interstices of that mass of wreckage were full of
+
+
+
+<P>something whitish, sluggish, stirring--of something that
+
+
+
+<P>was like a greasy fog.&nbsp; The smoke of the invisible fire
+
+
+
+<P>was coming up again, was trailing, like a poisonous thick
+
+
+
+<P>mist in some valley choked with dead wood.&nbsp; Already
+
+
+
+<P>lazy wisps were beginning to curl upwards amongst the
+
+
+
+<P>mass of splinters.&nbsp; Here and there a piece of timber,
+
+
+
+<P>stuck upright, resembled a post.&nbsp; Half of a fife-rail had
+
+
+
+<P>been shot through the foresail, and the sky made a
+
+
+
+<P>patch of glorious blue in the ignobly soiled canvas.&nbsp; A
+
+
+
+<P>portion of several boards holding together had fallen
+
+
+
+<P>across the rail, and one end protruded overboard, like a
+
+
+
+<P>gangway leading upon nothing, like a gangway leading
+
+
+
+<P>over the deep sea, leading to death--as if inviting us to
+
+
+
+<P>walk the plank at once and be done with our ridiculous
+
+
+
+<P>troubles.&nbsp; And still the air, the sky--a ghost, something
+
+
+
+<P>invisible was hailing the ship.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Someone had the sense to look over, and there was
+
+
+
+<P>the helmsman, who had impulsively jumped overboard,
+
+
+
+<P>anxious to come back.&nbsp; He yelled and swam lustily like
+
+
+
+<P>a merman, keeping up with the ship.&nbsp; We threw him a
+
+
+
+<P>rope, and presently he stood amongst us streaming with
+
+
+
+<P>water and very crest-fallen.&nbsp; The captain had surren-
+
+
+
+<P>dered the wheel, and apart, elbow on rail and chin in
+
+
+
+<P>hand, gazed at the sea wistfully.&nbsp; We asked ourselves,
+
+
+
+<P>What next?&nbsp; I thought, Now, this is something like.
+
+
+
+<P>This is great.&nbsp; I wonder what will happen.&nbsp; O youth!
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Suddenly Mahon sighted a steamer far astern.&nbsp; Cap-
+
+
+
+<P>tain Beard said, 'We may do something with her yet.'
+
+
+
+<P>We hoisted two flags, which said in the international
+
+
+
+<P>language of the sea, 'On fire.&nbsp; Want immediate assis-
+
+
+
+<P>tance.'&nbsp; The steamer grew bigger rapidly, and by-and-
+
+
+
+<P>by spoke with two flags on her foremast, 'I am coming
+
+
+
+<P>to your assistance.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"In half an hour she was abreast, to windward, within
+
+
+
+<P>hail, and rolling slightly, with her engines stopped.&nbsp; We
+
+
+
+<P>lost our composure, and yelled all together with excite-
+
+
+
+<P>ment, 'We've been blown up.'&nbsp; A man in a white helmet,
+
+
+
+<P>on the bridge, cried, 'Yes!&nbsp; All right! all right!' and
+
+
+
+<P>he nodded his head, and smiled, and made soothing mo-
+
+
+
+<P>tions with his hand as though at a lot of frightened chil-
+
+
+
+<P>dren.&nbsp; One of the boats dropped in the water, and
+
+
+
+<P>walked towards us upon the sea with her long oars.&nbsp; Four
+
+
+
+<P>Calashes pulled a swinging stroke.&nbsp; This was my first
+
+
+
+<P>sight of Malay seamen.&nbsp; I've known them since, but
+
+
+
+<P>what struck me then was their unconcern: they came
+
+
+
+<P>alongside, and even the bowman standing up and holding
+
+
+
+<P>to our main-chains with the boat-hook did not deign to
+
+
+
+<P>lift his head for a glance.&nbsp; I thought people who had
+
+
+
+<P>been blown up deserved more attention.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"A little man, dry like a chip and agile like a monkey,
+
+
+
+<P>clambered up.&nbsp; It was the mate of the steamer.&nbsp; He
+
+
+
+<P>gave one look, and cried, 'O boys--you had better quit.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We were silent.&nbsp; He talked apart with the captain
+
+
+
+<P>for a time,--seemed to argue with him.&nbsp; Then they went
+
+
+
+<P>away together to the steamer.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"When our skipper came back we learned that the
+
+
+
+<P>steamer was the Sommerville, Captain Nash, from West
+
+
+
+<P>Australia to Singapore via Batavia with mails, and that
+
+
+
+<P>the agreement was she should tow us to Anjer or Ba-
+
+
+
+<P>tavia, if possible, where we could extinguish the fire by
+
+
+
+<P>scuttling, and then proceed on our voyage--to Bankok!
+
+
+
+<P>The old man seemed excited.&nbsp; 'We will do it yet,' he
+
+
+
+<P>said to Mahon, fiercely.&nbsp; He shook his fist at the sky.
+
+
+
+<P>Nobody else said a word.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"At noon the steamer began to tow.&nbsp; She went ahead
+
+
+
+<P>slim and high, and what was left of the Judea followed
+
+
+
+<P>at the end of seventy fathom of tow-rope,--followed
+
+
+
+<P>her swiftly like a cloud of smoke with mastheads pro-
+
+
+
+<P>truding above.&nbsp; We went aloft to furl the sails.&nbsp; We
+
+
+
+<P>coughed on the yards, and were careful about the bunts.
+
+
+
+<P>Do you see the lot of us there, putting a neat furl on the
+
+
+
+<P>sails of that ship doomed to arrive nowhere?&nbsp; There
+
+
+
+<P>was not a man who didn't think that at any moment the
+
+
+
+<P>masts would topple over.&nbsp; From aloft we could not see
+
+
+
+<P>the ship for smoke, and they worked carefully, passing
+
+
+
+<P>the gaskets with even turns.&nbsp; 'Harbor furl--aloft
+
+
+
+<P>there!' cried Mahon from below.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"You understand this?&nbsp; I don't think one of those
+
+
+
+<P>chaps expected to get down in the usual way.&nbsp; When
+
+
+
+<P>we did I heard them saying to each other, 'Well, I
+
+
+
+<P>thought we would come down overboard, in a lump--
+
+
+
+<P>sticks and all--blame me if I didn't.'&nbsp; 'That's what I
+
+
+
+<P>was thinking to myself,' would answer wearily another
+
+
+
+<P>battered and bandaged scarecrow.&nbsp; And, mind, these were
+
+
+
+<P>men without the drilled-in habit of obedience.&nbsp; To an
+
+
+
+<P>onlooker they would be a lot of profane scallywags
+
+
+
+<P>without a redeeming point.&nbsp; What made them do it--
+
+
+
+<P>what made them obey me when I, thinking consciously
+
+
+
+<P>how fine it was, made them drop the bunt of the foresail
+
+
+
+<P>twice to try and do it better?&nbsp; What?&nbsp; They had no pro-
+
+
+
+<P>fessional reputation--no examples, no praise.&nbsp; It wasn't
+
+
+
+<P>a sense of duty; they all knew well enough how to shirk,
+
+
+
+<P>and laze, and dodge--when they had a mind to it--and
+
+
+
+<P>mostly they had.&nbsp; Was it the two pounds ten a month
+
+
+
+<P>that sent them there?&nbsp; They didn't think their pay half
+
+
+
+<P>good enough.&nbsp; No; it was something in them, something
+
+
+
+<P>inborn and subtle and everlasting.&nbsp; I don't say posi-
+
+
+
+<P>tively that the crew of a French or German merchant-
+
+
+
+<P>man wouldn't have done it, but I doubt whether it would
+
+
+
+<P>have been done in the same way.&nbsp; There was a complete-
+
+
+
+<P>ness in it, something solid like a principle, and masterful
+
+
+
+<P>like an instinct--a disclosure of something secret--of
+
+
+
+<P>that hidden something, that gift, of good or evil that
+
+
+
+<P>makes racial difference, that shapes the fate of nations.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"It was that night at ten that, for the first time since
+
+
+
+<P>we had been fighting it, we saw the fire.&nbsp; The speed of
+
+
+
+<P>the towing had fanned the smoldering destruction.&nbsp; A
+
+
+
+<P>blue gleam appeared forward, shining below the wreck
+
+
+
+<P>of the deck.&nbsp; It wavered in patches, it seemed to stir and
+
+
+
+<P>creep like the light of a glowworm.&nbsp; I saw it first, and
+
+
+
+<P>told Mahon.&nbsp; 'Then the game's up,' he said.&nbsp; 'We had
+
+
+
+<P>better stop this towing, or she will burst out suddenly
+
+
+
+<P>fore and aft before we can clear out.'&nbsp; We set up a yell;
+
+
+
+<P>rang bells to attract their attention; they towed on.&nbsp; At
+
+
+
+<P>last Mahon and I had to crawl forward and cut the rope
+
+
+
+<P>with an ax.&nbsp; There was no time to cast off the lashings.
+
+
+
+<P>Red tongues could be seen licking the wilderness of
+
+
+
+<P>splinters under our feet as we made our way back to the
+
+
+
+<P>poop.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Of course they very soon found out in the steamer
+
+
+
+<P>that the rope was gone.&nbsp; She gave a loud blast of her
+
+
+
+<P>whistle, her lights were seen sweeping in a wide circle, she
+
+
+
+<P>came up ranging close alongside, and stopped.&nbsp; We were
+
+
+
+<P>all in a tight group on the poop looking at her.&nbsp; Every
+
+
+
+<P>man had saved a little bundle or a bag.&nbsp; Suddenly a con-
+
+
+
+<P>ical flame with a twisted top shot up forward and threw
+
+
+
+<P>upon the black sea a circle of light, with the two vessels
+
+
+
+<P>side by side and heaving gently in its center.&nbsp; Captain
+
+
+
+<P>Beard had been sitting on the gratings still and mute for
+
+
+
+<P>hours, but now he rose slowly and advanced in front of
+
+
+
+<P>us, to the mizzen-shrouds.&nbsp; Captain Nash hailed: 'Come
+
+
+
+<P>along!&nbsp; Look sharp.&nbsp; I have mail-bags on board.&nbsp; I will
+
+
+
+<P>take you and your boats to Singapore.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'Thank you!&nbsp; No!' said our skipper.&nbsp; 'We must see
+
+
+
+<P>the last of the ship.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'I can't stand by any longer,' shouted the other.
+
+
+
+<P>'Mails--you know.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'Ay! ay!&nbsp; We are all right.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'Very well!&nbsp; I'll report you in Singapore. . . .
+
+
+
+<P>Good-by!'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"He waved his hand.&nbsp; Our men dropped their bundles
+
+
+
+<P>quietly.&nbsp; The steamer moved ahead, and passing out of
+
+
+
+<P>the circle of light, vanished at once from our sight, daz-
+
+
+
+<P>zled by the fire which burned fiercely.&nbsp; And then I knew
+
+
+
+<P>that I would see the East first as commander of a small
+
+
+
+<P>boat.&nbsp; I thought it fine; and the fidelity to the old ship
+
+
+
+<P>was fine.&nbsp; We should see the last of her.&nbsp; Oh the glamour
+
+
+
+<P>of youth!&nbsp; Oh the fire of it, more dazzling than the
+
+
+
+<P>flames of the burning ship, throwing a magic light on the
+
+
+
+<P>wide earth, leaping audaciously to the sky, presently to
+
+
+
+<P>be quenched by time, more cruel, more pitiless, more
+
+
+
+<P>bitter than the sea--and like the flames of the burning
+
+
+
+<P>ship surrounded by an impenetrable night.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>&nbsp;&nbsp; .&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The old man warned us in his gentle and inflexible
+
+
+
+<P>way that it was part of our duty to save for the under-
+
+
+
+<P>writers as much as we could of the ship's gear.&nbsp; Accord-
+
+
+
+<P>ing we went to work aft, while she blazed forward to give
+
+
+
+<P>us plenty of light.&nbsp; We lugged out a lot of rubbish.
+
+
+
+<P>What didn't we save?&nbsp; An old barometer fixed with an
+
+
+
+<P>absurd quantity of screws nearly cost me my life: a
+
+
+
+<P>sudden rush of smoke came upon me, and I just got
+
+
+
+<P>away in time.&nbsp; There were various stores, bolts of canvas,
+
+
+
+<P>coils of rope; the poop looked like a marine bazaar, and
+
+
+
+<P>the boats were lumbered to the gunwales.&nbsp; One would
+
+
+
+<P>have thought the old man wanted to take as much as he
+
+
+
+<P>could of his first command with him.&nbsp; He was very very
+
+
+
+<P>quiet, but off his balance evidently.&nbsp; Would you believe
+
+
+
+<P>it?&nbsp; He wanted to take a length of old stream-cable and
+
+
+
+<P>a kedge-anchor with him in the long-boat.&nbsp; We said,
+
+
+
+<P>'Ay, ay, sir,' deferentially, and on the quiet let the
+
+
+
+<P>thing slip overboard.&nbsp; The heavy medicine-chest went
+
+
+
+<P>that way, two bags of green coffee, tins of paint--fancy,
+
+
+
+<P>paint!--a whole lot of things.&nbsp; Then I was ordered with
+
+
+
+<P>two hands into the boats to make a stowage and get them
+
+
+
+<P>ready against the time it would be proper for us to leave
+
+
+
+<P>the ship.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We put everything straight, stepped the long-boat's
+
+
+
+<P>mast for our skipper, who was in charge of her, and I
+
+
+
+<P>was not sorry to sit down for a moment.&nbsp; My face felt
+
+
+
+<P>raw, every limb ached as if broken, I was aware of all
+
+
+
+<P>my ribs, and would have sworn to a twist in the back-
+
+
+
+<P>bone.&nbsp; The boats, fast astern, lay in a deep shadow, and
+
+
+
+<P>all around I could see the circle of the sea lighted by the
+
+
+
+<P>fire.&nbsp; A gigantic flame arose forward straight and clear.
+
+
+
+<P>It flared there, with noises like the whir of wings, with
+
+
+
+<P>rumbles as of thunder.&nbsp; There were cracks, detonations,
+
+
+
+<P>and from the cone of flame the sparks flew upwards, as
+
+
+
+<P>man is born to trouble, to leaky ships, and to ships that
+
+
+
+<P>burn.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"What bothered me was that the ship, lying broadside
+
+
+
+<P>to the swell and to such wind as there was--a mere breath--
+
+
+
+<P>the boats would not keep astern where they were safe,
+
+
+
+<P>but persisted, in a pig-headed way boats have, in getting
+
+
+
+<P>under the counter and then swinging alongside.&nbsp; They
+
+
+
+<P>were knocking about dangerously and coming near the
+
+
+
+<P>flame, while the ship rolled on them, and, of course, there
+
+
+
+<P>was always the danger of the masts going over the side
+
+
+
+<P>at any moment.&nbsp; I and my two boat-keepers kept them
+
+
+
+<P>off as best we could with oars and boat-hooks; but to be
+
+
+
+<P>constantly at it became exasperating, since there was no
+
+
+
+<P>reason why we should not leave at once.&nbsp; We could not
+
+
+
+<P>see those on board, nor could we imagine what caused the
+
+
+
+<P>delay.&nbsp; The boat-keepers were swearing feebly, and I
+
+
+
+<P>had not only my share of the work, but also had to keep
+
+
+
+<P>at it two men who showed a constant inclination to lay
+
+
+
+<P>themselves down and let things slide.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"At last I hailed 'On deck there,' and someone looked
+
+
+
+<P>over.&nbsp; 'We're ready here,' I said.&nbsp; The head disap-
+
+
+
+<P>peared, and very soon popped up again.&nbsp; 'The captain
+
+
+
+<P>says, All right, sir, and to keep the boats well clear of the
+
+
+
+<P>ship.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Half an hour passed.&nbsp; Suddenly there was a frightful
+
+
+
+<P>racket, rattle, clanking of chain, hiss of water, and mil-
+
+
+
+<P>lions of sparks flew up into the shivering column of smoke
+
+
+
+<P>that stood leaning slightly above the ship.&nbsp; The cat-
+
+
+
+<P>heads had burned away, and the two red-hot anchors had
+
+
+
+<P>gone to the bottom, tearing out after them two hundred
+
+
+
+<P>fathom of red-hot chain.&nbsp; The ship trembled, the mass of
+
+
+
+<P>flame swayed as if ready to collapse, and the fore top-
+
+
+
+<P>gallant-mast fell.&nbsp; It darted down like an arrow of fire,
+
+
+
+<P>shot under, and instantly leaping up within an oar's-
+
+
+
+<P>length of the boats, floated quietly, very black on the
+
+
+
+<P>luminous sea.&nbsp; I hailed the deck again.&nbsp; After some time
+
+
+
+<P>a man in an unexpectedly cheerful but also muffled tone,
+
+
+
+<P>as though he had been trying to speak with his mouth
+
+
+
+<P>shut, informed me, 'Coming directly, sir,' and vanished.
+
+
+
+<P>For a long time I heard nothing but the whir and roar
+
+
+
+<P>of the fire.&nbsp; There were also whistling sounds.&nbsp; The boats
+
+
+
+<P>jumped, tugged at the painters, ran at each other play-
+
+
+
+<P>fully, knocked their sides together, or, do what we would,
+
+
+
+<P>swung in a bunch against the ship's side.&nbsp; I couldn't
+
+
+
+<P>stand it any longer, and swarming up a rope, clambered
+
+
+
+<P>aboard over the stern.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"It was as bright as day.&nbsp; Coming up like this, the
+
+
+
+<P>sheet of fire facing me, was a terrifying sight, and the
+
+
+
+<P>heat seemed hardly bearable at first.&nbsp; On a settee cushion
+
+
+
+<P>dragged out of the cabin, Captain Beard, with his legs
+
+
+
+<P>drawn up and one arm under his head, slept with the light
+
+
+
+<P>playing on him.&nbsp; Do you know what the rest were busy
+
+
+
+<P>about?&nbsp; They were sitting on deck right aft, round an
+
+
+
+<P>open case, eating bread and cheese and drinking bottled
+
+
+
+<P>stout.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"On the background of flames twisting in fierce tongues
+
+
+
+<P>above their heads they seemed at home like salamanders,
+
+
+
+<P>and looked like a band of desperate pirates.&nbsp; The fire
+
+
+
+<P>sparkled in the whites of their eyes, gleamed on patches
+
+
+
+<P>of white skin seen through the torn shirts.&nbsp; Each had
+
+
+
+<P>the marks as of a battle about him--bandaged heads,
+
+
+
+<P>tied-up arms, a strip of dirty rag round a knee--and
+
+
+
+<P>each man had a bottle between his legs and a chunk of
+
+
+
+<P>cheese in his hand.&nbsp; Mahon got up.&nbsp; With his handsome
+
+
+
+<P>and disreputable head, his hooked profile, his long white
+
+
+
+<P>beard, and with an uncorked bottle in his hand, he re-
+
+
+
+<P>sembled one of those reckless sea-robbers of old making
+
+
+
+<P>merry amidst violence and disaster.&nbsp; 'The last meal on
+
+
+
+<P>board,' he explained solemnly.&nbsp; 'We had nothing to eat
+
+
+
+<P>all day, and it was no use leaving all this.'&nbsp; He flourished
+
+
+
+<P>the bottle and indicated the sleeping skipper.&nbsp; 'He said
+
+
+
+<P>he couldn't swallow anything, so I got him to lie down,'
+
+
+
+<P>he went on; and as I stared, 'I don't know whether you
+
+
+
+<P>are aware, young fellow, the man had no sleep to speak
+
+
+
+<P>of for days--and there will be dam' little sleep in the
+
+
+
+<P>boats.'&nbsp; 'There will be no boats by-and-by if you fool
+
+
+
+<P>about much longer,' I said, indignantly.&nbsp; I walked up to
+
+
+
+<P>the skipper and shook him by the shoulder.&nbsp; At last he
+
+
+
+<P>opened his eyes, but did not move.&nbsp; 'Time to leave her,
+
+
+
+<P>sir,' I said, quietly.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"He got up painfully, looked at the flames, at the sea
+
+
+
+<P>sparkling round the ship, and black, black as ink farther
+
+
+
+<P>away; he looked at the stars shining dim through a thin
+
+
+
+<P>veil of smoke in a sky black, black as Erebus.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'Youngest first,' he said.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"And the ordinary seaman, wiping his mouth with the
+
+
+
+<P>back of his hand, got up, clambered over the taffrail, and
+
+
+
+<P>vanished.&nbsp; Others followed.&nbsp; One, on the point of going
+
+
+
+<P>over, stopped short to drain his bottle, and with a great
+
+
+
+<P>swing of his arm flung it at the fire.&nbsp; 'Take this!' he
+
+
+
+<P>cried.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"The skipper lingered disconsolately, and we left him
+
+
+
+<P>to commune alone for awhile with his first command.
+
+
+
+<P>Then I went up again and brought him away at last.&nbsp; It
+
+
+
+<P>was time.&nbsp; The ironwork on the poop was hot to the
+
+
+
+<P>touch.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Then the painter of the long-boat was cut, and the
+
+
+
+<P>three boats, tied together, drifted clear of the ship.&nbsp; It
+
+
+
+<P>was just sixteen hours after the explosion when we aban-
+
+
+
+<P>doned her.&nbsp; Mahon had charge of the second boat, and I
+
+
+
+<P>had the smallest--the 14-foot thing.&nbsp; The long-boat
+
+
+
+<P>would have taken the lot of us; but the skipper said we
+
+
+
+<P>must save as much property as we could--for the under-
+
+
+
+<P>writers--and so I got my first command.&nbsp; I had two men
+
+
+
+<P>with me, a bag of biscuits, a few tins of meat, and a
+
+
+
+<P>breaker of water.&nbsp; I was ordered to keep close to the
+
+
+
+<P>long-boat, that in case of bad weather we might be taken
+
+
+
+<P>into her.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"And do you know what I thought?&nbsp; I thought I
+
+
+
+<P>would part company as soon as I could.&nbsp; I wanted to
+
+
+
+<P>have my first command all to myself.&nbsp; I wasn't going to
+
+
+
+<P>sail in a squadron if there were a chance for independ-
+
+
+
+<P>ent cruising.&nbsp; I would make land by myself.&nbsp; I would
+
+
+
+<P>beat the other boats.&nbsp; Youth!&nbsp; All youth!&nbsp; The silly,
+
+
+
+<P>charming, beautiful youth.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"But we did not make a start at once.&nbsp; We must see
+
+
+
+<P>the last of the ship.&nbsp; And so the boats drifted about that
+
+
+
+<P>night, heaving and setting on the swell.&nbsp; The men dozed,
+
+
+
+<P>waked, sighed, groaned.&nbsp; I looked at the burning ship.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Between the darkness of earth and heaven she was
+
+
+
+<P>burning fiercely upon a disc of purple sea shot by the
+
+
+
+<P>blood-red play of gleams; upon a disc of water glitter-
+
+
+
+<P>ing and sinister.&nbsp; A high, clear flame, an immense and
+
+
+
+<P>lonely flame, ascended from the ocean, and from its sum-
+
+
+
+<P>mit the black smoke poured continuously at the sky.&nbsp; She
+
+
+
+<P>burned furiously, mournful and imposing like a funeral
+
+
+
+<P>pile kindled in the night, surrounded by the sea, watched
+
+
+
+<P>over by the stars.&nbsp; A magnificent death had come like a
+
+
+
+<P>grace, like a gift, like a reward to that old ship at the
+
+
+
+<P>end of her laborious days.&nbsp; The surrender of her weary
+
+
+
+<P>ghost to the keeping of stars and sea was stirring like the
+
+
+
+<P>sight of a glorious triumph.&nbsp; The masts fell just before
+
+
+
+<P>daybreak, and for a moment there was a burst and tur-
+
+
+
+<P>moil of sparks that seemed to fill with flying fire the night
+
+
+
+<P>patient and watchful, the vast night lying silent upon
+
+
+
+<P>the sea.&nbsp; At daylight she was only a charred shell, float-
+
+
+
+<P>ing still under a cloud of smoke and bearing a glowing
+
+
+
+<P>mass of coal within.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Then the oars were got out, and the boats forming in
+
+
+
+<P>a line moved round her remains as if in procession--the
+
+
+
+<P>long-boat leading.&nbsp; As we pulled across her stern a slim
+
+
+
+<P>dart of fire shot out viciously at us, and suddenly she
+
+
+
+<P>went down, head first, in a great hiss of steam.&nbsp; The
+
+
+
+<P>unconsumed stern was the last to sink; but the paint had
+
+
+
+<P>gone, had cracked, had peeled off, and there were no
+
+
+
+<P>letters, there was no word, no stubborn device that was
+
+
+
+<P>like her soul, to flash at the rising sun her creed and her
+
+
+
+<P>name.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We made our way north.&nbsp; A breeze sprang up, and
+
+
+
+<P>about noon all the boats came together for the last time.
+
+
+
+<P>I had no mast or sail in mine, but I made a mast out of a
+
+
+
+<P>spare oar and hoisted a boat-awning for a sail, with a
+
+
+
+<P>boat-hook for a yard.&nbsp; She was certainly over-masted,
+
+
+
+<P>but I had the satisfaction of knowing that with the wind
+
+
+
+<P>aft I could beat the other two.&nbsp; I had to wait for them.
+
+
+
+<P>Then we all had a look at the captain's chart, and, after
+
+
+
+<P>a sociable meal of hard bread and water, got our last
+
+
+
+<P>instructions.&nbsp; These were simple: steer north, and keep
+
+
+
+<P>together as much as possible.&nbsp; 'Be careful with that
+
+
+
+<P>jury rig, Marlow,' said the captain; and Mahon, as I
+
+
+
+<P>sailed proudly past his boat, wrinkled his curved nose
+
+
+
+<P>and hailed, 'You will sail that ship of yours under
+
+
+
+<P>water, if you don't look out, young fellow.'&nbsp; He was a
+
+
+
+<P>malicious old man--and may the deep sea where he sleeps
+
+
+
+<P>now rock him gently, rock him tenderly to the end of time!
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Before sunset a thick rain-squall passed over the two
+
+
+
+<P>boats, which were far astern, and that was the last I
+
+
+
+<P>saw of them for a time.&nbsp; Next day I sat steering my
+
+
+
+<P>cockle-shell--my first command--with nothing but water
+
+
+
+<P>and sky around me.&nbsp; I did sight in the afternoon the
+
+
+
+<P>upper sails of a ship far away, but said nothing, and my
+
+
+
+<P>men did not notice her.&nbsp; You see I was afraid she might
+
+
+
+<P>be homeward bound, and I had no mind to turn back
+
+
+
+<P>from the portals of the East.&nbsp; I was steering for Java--
+
+
+
+<P>another blessed name--like Bankok, you know.&nbsp; I steered
+
+
+
+<P>many days.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"I need not tell you what it is to be knocking about in
+
+
+
+<P>an open boat.&nbsp; I remember nights and days of calm when
+
+
+
+<P>we pulled, we pulled, and the boat seemed to stand still,
+
+
+
+<P>as if bewitched within the circle of the sea horizon.&nbsp; I
+
+
+
+<P>remember the heat, the deluge of rain-squalls that kept
+
+
+
+<P>us baling for dear life (but filled our water-cask), and I
+
+
+
+<P>remember sixteen hours on end with a mouth dry as a
+
+
+
+<P>cinder and a steering-oar over the stern to keep my first
+
+
+
+<P>command head on to a breaking sea.&nbsp; I did not know how
+
+
+
+<P>good a man I was till then.&nbsp; I remember the drawn faces,
+
+
+
+<P>the dejected figures of my two men, and I remember my
+
+
+
+<P>youth and the feeling that will never come back any
+
+
+
+<P>more--the feeling that I could last for ever, outlast the
+
+
+
+<P>sea, the earth, and all men; the deceitful feeling that
+
+
+
+<P>lures us on to joys, to perils, to love, to vain effort--to
+
+
+
+<P>death; the triumphant conviction of strength, the heat
+
+
+
+<P>of life in the handful of dust, the glow in the heart that
+
+
+
+<P>with every year grows dim, grows cold, grows small, and
+
+
+
+<P>expires--and expires, too soon--before life itself.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"And this is how I see the East.&nbsp; I have seen its secret
+
+
+
+<P>places and have looked into its very soul; but now I see
+
+
+
+<P>it always from a small boat, a high outline of mountains,
+
+
+
+<P>blue and afar in the morning; like faint mist at noon; a
+
+
+
+<P>jagged wall of purple at sunset.&nbsp; I have the feel of the
+
+
+
+<P>oar in my hand, the vision of a scorching blue sea in my
+
+
+
+<P>eyes.&nbsp; And I see a bay, a wide bay, smooth as glass and
+
+
+
+<P>polished like ice, shimmering in the dark.&nbsp; A red light
+
+
+
+<P>burns far off upon the gloom of the land, and the night
+
+
+
+<P>is soft and warm.&nbsp; We drag at the oars with aching arms,
+
+
+
+<P>and suddenly a puff of wind, a puff faint and tepid and
+
+
+
+<P>laden with strange odors of blossoms, of aromatic wood,
+
+
+
+<P>comes out of the still night--the first sigh of the East on
+
+
+
+<P>my face.&nbsp; That I can never forget.&nbsp; It was impalpable
+
+
+
+<P>and enslaving, like a charm, like a whispered promise of
+
+
+
+<P>mysterious delight.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"We had been pulling this finishing spell for eleven
+
+
+
+<P>hours.&nbsp; Two pulled, and he whose turn it was to rest sat
+
+
+
+<P>at the tiller.&nbsp; We had made out the red light in that bay
+
+
+
+<P>and steered for it, guessing it must mark some small
+
+
+
+<P>coasting port.&nbsp; We passed two vessels, outlandish and
+
+
+
+<P>high-sterned, sleeping at anchor, and, approaching the
+
+
+
+<P>light, now very dim, ran the boat's nose against the end
+
+
+
+<P>of a jutting wharf.&nbsp; We were blind with fatigue.&nbsp; My
+
+
+
+<P>men dropped the oars and fell off the thwarts as if dead.
+
+
+
+<P>I made fast to a pile.&nbsp; A current rippled softly.&nbsp; The
+
+
+
+<P>scented obscurity of the shore was grouped into vast
+
+
+
+<P>masses, a density of colossal clumps of vegetation, prob-
+
+
+
+<P>ably--mute and fantastic shapes.&nbsp; And at their foot the
+
+
+
+<P>semicircle of a beach gleamed faintly, like an illusion.
+
+
+
+<P>There was not a light, not a stir, not a sound.&nbsp; The mys-
+
+
+
+<P>terious East faced me, perfumed like a flower, silent like
+
+
+
+<P>death, dark like a grave.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"And I sat weary beyond expression, exulting like a
+
+
+
+<P>conqueror, sleepless and entranced as if before a pro-
+
+
+
+<P>found, a fateful enigma.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"A splashing of oars, a measured dip reverberating
+
+
+
+<P>on the level of water, intensified by the silence of the
+
+
+
+<P>shore into loud claps, made me jump up.&nbsp; A boat, a
+
+
+
+<P>European boat, was coming in.&nbsp; I invoked the name
+
+
+
+<P>of the dead; I hailed: Judea ahoy!&nbsp; A thin shout an-
+
+
+
+<P>swered.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"It was the captain.&nbsp; I had beaten the flagship by three
+
+
+
+<P>hours, and I was glad to hear the old man's voice, tremu-
+
+
+
+<P>lous and tired.&nbsp; 'Is it you, Marlow?'&nbsp; 'Mind the end of
+
+
+
+<P>that jetty, sir,' I cried.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"He approached cautiously, and brought up with the
+
+
+
+<P>deep-sea lead-line which we had saved--for the under-
+
+
+
+<P>writers.&nbsp; I eased my painter and fell alongside.&nbsp; He
+
+
+
+<P>sat, a broken figure at the stern, wet with dew, his hands
+
+
+
+<P>clasped in his lap.&nbsp; His men were asleep already.&nbsp; 'I
+
+
+
+<P>had a terrible time of it,' he murmured.&nbsp; 'Mahon is be-
+
+
+
+<P>hind--not very far.'&nbsp; We conversed in whispers, in low
+
+
+
+<P>whispers, as if afraid to wake up the land.&nbsp; Guns, thun-
+
+
+
+<P>der, earthquakes would not have awakened the men just
+
+
+
+<P>then.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Looking around as we talked, I saw away at sea a
+
+
+
+<P>bright light traveling in the night.&nbsp; 'There's a steamer
+
+
+
+<P>passing the bay,' I said.&nbsp; She was not passing, she was
+
+
+
+<P>entering, and she even came close and anchored.&nbsp; 'I
+
+
+
+<P>wish,' said the old man, 'you would find out whether she
+
+
+
+<P>is English.&nbsp; Perhaps they could give us a passage some-
+
+
+
+<P>where.'&nbsp; He seemed nervously anxious.&nbsp; So by dint of
+
+
+
+<P>punching and kicking I started one of my men into a
+
+
+
+<P>state of somnambulism, and giving him an oar, took
+
+
+
+<P>another and pulled towards the lights of the steamer.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"There was a murmur of voices in her, metallic hollow
+
+
+
+<P>clangs of the engine-room, footsteps on the deck.&nbsp; Her
+
+
+
+<P>ports shone, round like dilated eyes.&nbsp; Shapes moved
+
+
+
+<P>about, and there was a shadowy man high up on the
+
+
+
+<P>bridge.&nbsp; He heard my oars.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"And then, before I could open my lips, the East spoke
+
+
+
+<P>to me, but it was in a Western voice.&nbsp; A torrent of words
+
+
+
+<P>was poured into the enigmatical, the fateful silence;
+
+
+
+<P>outlandish, angry words, mixed with words and even
+
+
+
+<P>whole sentences of good English, less strange but even
+
+
+
+<P>more surprising.&nbsp; The voice swore and cursed violently;
+
+
+
+<P>it riddled the solemn peace of the bay by a volley of
+
+
+
+<P>abuse.&nbsp; It began by calling me Pig, and from that went
+
+
+
+<P>crescendo into unmentionable adjectives--in English.
+
+
+
+<P>The man up there raged aloud in two languages, and
+
+
+
+<P>with a sincerity in his fury that almost convinced me I
+
+
+
+<P>had, in some way, sinned against the harmony of the
+
+
+
+<P>universe.&nbsp; I could hardly see him, but began to think he
+
+
+
+<P>would work himself into a fit.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Suddenly he ceased, and I could hear him snorting and
+
+
+
+<P>blowing like a porpoise.&nbsp; I said--
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'What steamer is this, pray?'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'Eh?&nbsp; What's this?&nbsp; And who are you?'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'Castaway crew of an English bark burnt at sea.
+
+
+
+<P>We came here to-night.&nbsp; I am the second mate.&nbsp; The
+
+
+
+<P>captain is in the long-boat, and wishes to know if you
+
+
+
+<P>would give us a passage somewhere.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'Oh, my goodness!&nbsp; I say. . . .&nbsp; This is the Celestial
+
+
+
+<P>from Singapore on her return trip.&nbsp; I'll arrange with
+
+
+
+<P>your captain in the morning, . . . and, . . . I say,
+
+
+
+<P>. . . did you hear me just now?'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'I should think the whole bay heard you.'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'I thought you were a shore-boat.&nbsp; Now, look here--
+
+
+
+<P>this infernal lazy scoundrel of a caretaker has gone to
+
+
+
+<P>sleep again--curse him.&nbsp; The light is out, and I nearly
+
+
+
+<P>ran foul of the end of this damned jetty.&nbsp; This is the
+
+
+
+<P>third time he plays me this trick.&nbsp; Now, I ask you, can
+
+
+
+<P>anybody stand this kind of thing?&nbsp; It's enough to drive
+
+
+
+<P>a man out of his mind.&nbsp; I'll report him. . . .&nbsp; I'll get the
+
+
+
+<P>Assistant Resident to give him the sack, by . . .&nbsp; See--
+
+
+
+<P>there's no light.&nbsp; It's out, isn't it?&nbsp; I take you to witness
+
+
+
+<P>the light's out.&nbsp; There should be a light, you know.&nbsp; A
+
+
+
+<P>red light on the--'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'There was a light,' I said, mildly.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'But it's out, man!&nbsp; What's the use of talking like
+
+
+
+<P>this?&nbsp; You can see for yourself it's out--don't you?&nbsp; If
+
+
+
+<P>you had to take a valuable steamer along this God-for-
+
+
+
+<P>saken coast you would want a light too.&nbsp; I'll kick him
+
+
+
+<P>from end to end of his miserable wharf.&nbsp; You'll see if I
+
+
+
+<P>don't.&nbsp; I will--'
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'So I may tell my captain you'll take us?' I broke in.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"'Yes, I'll take you.&nbsp; Good night,' he said, brusquely.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"I pulled back, made fast again to the jetty, and then
+
+
+
+<P>went to sleep at last.&nbsp; I had faced the silence of the
+
+
+
+<P>East.&nbsp; I had heard some of its languages.&nbsp; But when I
+
+
+
+<P>opened my eyes again the silence was as complete as
+
+
+
+<P>though it had never been broken.&nbsp; I was lying in a
+
+
+
+<P>flood of light, and the sky had never looked so far, so
+
+
+
+<P>high, before.&nbsp; I opened my eyes and lay without moving.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"And then I saw the men of the East--they were
+
+
+
+<P>looking at me.&nbsp; The whole length of the jetty was
+
+
+
+<P>full of people.&nbsp; I saw brown, bronze, yellow faces,
+
+
+
+<P>the black eyes, the glitter, the color of an Eastern
+
+
+
+<P>crowd.&nbsp; And all these beings stared without a mur-
+
+
+
+<P>mur, without a sigh, without a movement.&nbsp; They
+
+
+
+<P>stared down at the boats, at the sleeping men who at
+
+
+
+<P>night had come to them from the sea.&nbsp; Nothing moved.
+
+
+
+<P>The fronds of palms stood still against the sky.&nbsp; Not a
+
+
+
+<P>branch stirred along the shore, and the brown roofs of
+
+
+
+<P>hidden houses peeped through the green foliage, through
+
+
+
+<P>the big leaves that hung shining and still like leaves
+
+
+
+<P>forged of heavy metal.&nbsp; This was the East of the ancient
+
+
+
+<P>navigators, so old, so mysterious, resplendent and
+
+
+
+<P>somber, living and unchanged, full of danger and prom-
+
+
+
+<P>ise.&nbsp; And these were the men.&nbsp; I sat up suddenly.&nbsp; A
+
+
+
+<P>wave of movement passed through the crowd from end
+
+
+
+<P>to end, passed along the heads, swayed the bodies, ran
+
+
+
+<P>along the jetty like a ripple on the water, like a breath
+
+
+
+<P>of wind on a field--and all was still again.&nbsp; I see it now
+
+
+
+<P>--the wide sweep of the bay, the glittering sands, the
+
+
+
+<P>wealth of green infinite and varied, the sea blue like the
+
+
+
+<P>sea of a dream, the crowd of attentive faces, the blaze of
+
+
+
+<P>vivid color--the water reflecting it all, the curve of the
+
+
+
+<P>shore, the jetty, the high-sterned outlandish craft float-
+
+
+
+<P>ing still, and the three boats with tired men from the
+
+
+
+<P>West sleeping unconscious of the land and the people
+
+
+
+<P>and of the violence of sunshine.&nbsp; They slept thrown
+
+
+
+<P>across the thwarts, curled on bottom-boards, in the care-
+
+
+
+<P>less attitudes of death.&nbsp; The head of the old skipper,
+
+
+
+<P>leaning back in the stern of the long-boat, had fallen on
+
+
+
+<P>his breast, and he looked as though he would never wake.
+
+
+
+<P>Farther out old Mahon's face was upturned to the sky,
+
+
+
+<P>with the long white beard spread out on his breast, as
+
+
+
+<P>though he had been shot where he sat at the tiller; and a
+
+
+
+<P>man, all in a heap in the bows of the boat, slept with both
+
+
+
+<P>arms embracing the stem-head and with his cheek laid on
+
+
+
+<P>the gunwale.&nbsp; The East looked at them without a sound.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"I have known its fascinations since: I have seen the
+
+
+
+<P>mysterious shores, the still water, the lands of brown na-
+
+
+
+<P>tions, where a stealthy Nemesis lies in wait, pursues,
+
+
+
+<P>overtakes so many of the conquering race, who are proud
+
+
+
+<P>of their wisdom, of their knowledge, of their strength.
+
+
+
+<P>But for me all the East is contained in that vision of my
+
+
+
+<P>youth.&nbsp; It is all in that moment when I opened my young
+
+
+
+<P>eyes on it.&nbsp; I came upon it from a tussle with the sea--
+
+
+
+<P>and I was young--and I saw it looking at me.&nbsp; And this
+
+
+
+<P>is all that is left of it!&nbsp; Only a moment; a moment of
+
+
+
+<P>strength, of romance, of glamour--of youth! . . .&nbsp; A
+
+
+
+<P>flick of sunshine upon a strange shore, the time to re-
+
+
+
+<P>member, the time for a sigh, and--good-by!--Night--
+
+
+
+<P>Good-by . . .!"
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>He drank.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"Ah!&nbsp; The good old time--the good old time.&nbsp; Youth
+
+
+
+<P>and the sea.&nbsp; Glamour and the sea!&nbsp; The good, strong
+
+
+
+<P>sea, the salt, bitter sea, that could whisper to you and
+
+
+
+<P>roar at you and knock your breath out of you."
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>He drank again.
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>"By all that's wonderful, it is the sea, I believe, the sea
+
+
+
+<P>itself--or is it youth alone?&nbsp; Who can tell?&nbsp; But you
+
+
+
+<P>here--you all had something out of life: money, love--
+
+
+
+<P>whatever one gets on shore--and, tell me, wasn't that the
+
+
+
+<P>best time, that time when we were young at sea; young
+
+
+
+<P>and had nothing, on the sea that gives nothing, except
+
+
+
+<P>hard knocks--and sometimes a chance to feel your
+
+
+
+<P>strength--that only--what you all regret?"
+
+<BR>&nbsp;
+
+<BR>&nbsp;
+
+
+
+<P>And we all nodded at him: the man of finance, the man
+
+
+
+<P>of accounts, the man of law, we all nodded at him over
+
+
+
+<P>the polished table that like a still sheet of brown water
+
+
+
+<P>reflected our faces, lined, wrinkled; our faces marked
+
+
+
+<P>by toil, by deceptions, by success, by love; our weary
+
+
+
+<P>eyes looking still, looking always, looking anxiously for
+
+
+
+<P>something out of life, that while it is expected is already
+
+
+
+<P>gone--has passed unseen, in a sigh, in a flash--together
+
+
+
+<P>with the youth, with the strength, with the romance of illusions.
+
+<BR>&nbsp;
+
+
+
+<P><B><FONT SIZE=+1>End</FONT></B>
+
+<BR>
+
+<HR WIDTH="100%">
+
+</BODY>
+
+</HTML>
+

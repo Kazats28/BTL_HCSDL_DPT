@@ -1,0 +1,378 @@
+<HTML>
+
+<HEAD>
+
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.03 [en] (Win95; I) [Netscape]">
+
+   <TITLE>index</TITLE>
+
+</HEAD>
+
+<BODY>
+
+&nbsp;
+
+<CENTER><B><I><FONT SIZE=+3>The Federalist Papers</FONT></I></B></CENTER>
+
+&nbsp;
+
+<CENTER><B><FONT SIZE=+2>by Alexander Hamilton, John Jay, and James Madison</FONT></B></CENTER>
+
+
+
+<CENTER><B><FONT SIZE=-1>&nbsp;</FONT></B></CENTER>
+
+
+
+<HR WIDTH="100%">
+
+<CENTER><FONT SIZE=+1><A HREF="paper01.txt">Paper&nbsp;&nbsp; 1</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper02.txt">Paper&nbsp;&nbsp; 2</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper03.txt">Paper&nbsp;&nbsp; 3</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper04.txt">Paper&nbsp;&nbsp; 4</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper05.txt">Paper&nbsp;&nbsp; 5</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper06.txt">Paper&nbsp;&nbsp; 6</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper07.txt">Paper&nbsp;&nbsp; 7</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper08.txt">Paper&nbsp;&nbsp; 8</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper09.txt">Paper&nbsp;&nbsp; 9</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper10.txt">Paper&nbsp; 10</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper11.txt">Paper&nbsp; 11</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper12.txt">Paper&nbsp; 12</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper13.txt">Paper&nbsp; 13</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper14.txt">Paper&nbsp; 14</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper15.txt">Paper&nbsp; 15</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper16.txt">Paper&nbsp; 16</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper17.txt">Paper&nbsp; 17</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper18.txt">Paper&nbsp; 18</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper19.txt">Paper&nbsp; 19</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper20.txt">Paper&nbsp; 20</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper21.txt">Paper&nbsp; 21</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper22.txt">Paper&nbsp; 22</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper23.txt">Paper&nbsp; 23</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper24.txt">Paper&nbsp; 24</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper25.txt">Paper&nbsp; 25</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper26.txt">Paper&nbsp; 26</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper27.txt">Paper&nbsp; 27</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper28.txt">Paper&nbsp; 28</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper29.txt">Paper&nbsp; 29</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper30.txt">Paper&nbsp; 30</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper31.txt">Paper&nbsp; 31</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper32.txt">Paper&nbsp; 32</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper33.txt">Paper&nbsp; 33</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper34.txt">Paper&nbsp; 34</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper35.txt">Paper&nbsp; 35</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper36.txt">Paper&nbsp; 36</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper37.txt">Paper&nbsp; 37</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper38.txt">Paper&nbsp; 38</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper39.txt">Paper&nbsp; 39</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper40.txt">Paper&nbsp; 40</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper41.txt">Paper&nbsp; 41</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper42.txt">Paper&nbsp; 42</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper43.txt">Paper&nbsp; 43</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper44.txt">Paper&nbsp; 44</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper45.txt">Paper&nbsp; 45</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper46.txt">Paper&nbsp; 46</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper47.txt">Paper&nbsp; 47</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper48.txt">Paper&nbsp; 48</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper49.txt">Paper&nbsp; 49</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper50.txt">Paper&nbsp; 50</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper51.txt">Paper&nbsp; 51</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper52.txt">Paper&nbsp; 52</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper53.txt">Paper&nbsp; 53</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper54.txt">Paper&nbsp; 54</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper55.txt">Paper&nbsp; 55</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper56.txt">Paper&nbsp; 56</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper57.txt">Paper&nbsp; 57</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper58.txt">Paper&nbsp; 58</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper59.txt">Paper&nbsp; 59</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper60.txt">Paper&nbsp; 60</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper61.txt">Paper&nbsp; 61</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper62.txt">Paper&nbsp; 62</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper63.txt">Paper&nbsp; 63</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper64.txt">Paper&nbsp; 64</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper65.txt">Paper&nbsp; 65</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper66.txt">Paper&nbsp; 66</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper67.txt">Paper&nbsp; 67</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper68.txt">Paper&nbsp; 68</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper69.txt">Paper&nbsp; 69</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper70.txt">Paper&nbsp; 70</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper71.txt">Paper&nbsp; 71</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper72.txt">Paper&nbsp; 72</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper73.txt">Paper&nbsp; 73</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper74.txt">Paper&nbsp; 74</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper75.txt">Paper&nbsp; 75</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper76.txt">Paper&nbsp; 76</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper77.txt">Paper&nbsp; 77</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper78.txt">Paper&nbsp; 78</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper79.txt">Paper&nbsp; 79</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper80.txt">Paper&nbsp; 80</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper81.txt">Paper&nbsp; 81</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper82.txt">Paper&nbsp; 82</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper83.txt">Paper&nbsp; 83</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper84.txt">Paper&nbsp; 84</A></FONT></CENTER>
+
+
+
+<CENTER><FONT SIZE=+1><A HREF="paper85.txt">Paper&nbsp; 85</A></FONT></CENTER>
+
+
+
+<HR WIDTH="100%">
+
+<BR>&nbsp;
+
+</BODY>
+
+</HTML>
+

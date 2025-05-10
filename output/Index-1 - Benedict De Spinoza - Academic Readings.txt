@@ -1,0 +1,82 @@
+<HTML>
+
+<HEAD>
+
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.03 [en] (Win95; I) [Netscape]">
+
+   <TITLE>index-1</TITLE>
+
+</HEAD>
+
+<BODY>
+
+
+
+<CENTER><B><I><FONT SIZE=+3>&nbsp;</FONT></I></B></CENTER>
+
+
+
+<CENTER><B><I><FONT SIZE=+3>The Ethics</FONT></I></B></CENTER>
+
+
+
+<CENTER>&nbsp;</CENTER>
+
+
+
+<CENTER><B><FONT SIZE=+2>by Benedict de Spinoza</FONT></B></CENTER>
+
+
+
+<CENTER>(Translated by R. H. M. Elwes)</CENTER>
+
+
+
+<CENTER><B><FONT SIZE=+2></FONT></B></CENTER>
+
+
+
+<HR WIDTH="100%">
+
+<UL>
+
+<UL><FONT SIZE=+1><A HREF="The Ethics(Part I).txt">PART I:&nbsp; CONCERNING
+
+GOD.</A></FONT>
+
+<BR><FONT SIZE=+1>&nbsp;</FONT>
+
+<BR><FONT SIZE=+1><A HREF="The Ethics(Part II).txt">Part II:&nbsp; ON THE
+
+NATURE AND ORIGIN OF THE MIND</A></FONT>
+
+<BR><FONT SIZE=+1>&nbsp;</FONT>
+
+<BR><FONT SIZE=+1><A HREF="The Ethics(Part III).txt">PART III:&nbsp; ON
+
+THE ORIGIN AND NATURE OF THE EMOTIONS</A></FONT>
+
+<BR><FONT SIZE=+1>&nbsp;</FONT>
+
+<BR><FONT SIZE=+1><A HREF="The Ethics(Part IV).txt">PART IV:&nbsp; Of Human
+
+Bondage, or the Strength of the Emotions</A></FONT>
+
+<BR><FONT SIZE=+1>&nbsp;</FONT>
+
+<BR><FONT SIZE=+1><A HREF="The Ethics(Part V).txt">PART V:&nbsp; Of the
+
+Power of the Understanding, or of Human Freedom</A></FONT></UL>
+
+</UL>
+
+
+
+<HR WIDTH="100%">
+
+</BODY>
+
+</HTML>
+
