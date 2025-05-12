@@ -136,6 +136,7 @@ class SearchApp:
             import traceback
             traceback_str = traceback.format_exc()
             messagebox.showerror("Lỗi", f"{type(e).__name__}: {e}\n\n{traceback_str}")
+            print(traceback_str)
             self.root.after(0, self.reset_ui)
             return
 
