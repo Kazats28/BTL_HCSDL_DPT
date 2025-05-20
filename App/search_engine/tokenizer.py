@@ -1,9 +1,9 @@
 import re
 from .stemmer import PorterStemmer
+import pickle
 # Đọc danh sách stopwords từ file
-with open("stopwords.txt", "r", encoding="utf-8") as f:
-    STOPWORDS = set(f.read().splitlines())
-
+with open("./File/stopwords.pkl",  'rb') as f:
+    STOPWORDS = pickle.load(f)
 stemmer = PorterStemmer()
 
 def tokenize(text):

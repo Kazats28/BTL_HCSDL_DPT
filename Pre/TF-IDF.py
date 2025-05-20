@@ -12,8 +12,8 @@ from search_engine.load_pkl import load_pkl
 
 FOLDER_PATH = "data"
 DEFAULT_PATH = "../App/File"
-DOC_FILE = DEFAULT_PATH + "/" + "documents"
-FILE_FILE = DEFAULT_PATH + "/" + "filenames"
+DOC_FILE = "./File/documents"
+FILE_FILE = "./File/filenames"
 IDF_FILE = DEFAULT_PATH +  "/" + "idf"
 METADATA_FILE = DEFAULT_PATH + "/" + "metadata"
 VOCAB_FILE = DEFAULT_PATH + "/" + "vocab"
@@ -21,7 +21,7 @@ TFIDF_FILE = DEFAULT_PATH + "/" + "tf-idf"
 INVERTED_INDEX_FILE = DEFAULT_PATH + "/" + "inverted_index"
 
 os.makedirs(DEFAULT_PATH, exist_ok=True)
-
+os.makedirs("./File", exist_ok=True)
 stemmer = PorterStemmer()
 
 # Đọc danh sách stopwords từ file
@@ -86,7 +86,7 @@ print("Tính IDF cho từng từ...")
 N = len(documents)
 idf = {term: math.log(N / (1 + len(inverted_index[term]))) for term in vocab}
 save_pkl(IDF_FILE, idf)
-save_json(IDF_FILE, idf)
+# save_json(IDF_FILE, idf)
 
 # === Bước 3: Tính TF-IDF từng văn bản và lưu metadata ===
 print("Tính TF-IDF và lưu metadata...")
@@ -124,24 +124,24 @@ for doc_id in tqdm(range(N)):
 # === Bước 4: Ghi metadata ra file ===
 print("Ghi metadata vào file...")
 save_pkl(METADATA_FILE, metadata)
-save_json(METADATA_FILE, metadata)
+# save_json(METADATA_FILE, metadata)
 
 # === Bước 5: Ghi TF-IDF vector ra file ===
 print("Ghi TF-IDF vector vào file...")
 save_pkl(TFIDF_FILE, tfidf_data)
-save_json(TFIDF_FILE, tfidf_data)
+# save_json(TFIDF_FILE, tfidf_data)
 
 # === Bước 6: Ghi từ điển vocab vào file ===
 print("Ghi từ điển vocab vào file...")
 save_pkl(VOCAB_FILE, vocab)
-save_json(VOCAB_FILE, vocab)
+# save_json(VOCAB_FILE, vocab)
 
 # === Bước 7: Ghi chỉ mục ngược với doc_id ===
 print("Ghi chỉ mục ngược vào file...")
 inverted_index_doc_ids = {term: sorted(list(doc_ids)) for term, doc_ids in inverted_index.items()}
 
 save_pkl(INVERTED_INDEX_FILE, inverted_index_doc_ids)
-save_json(INVERTED_INDEX_FILE, inverted_index_doc_ids)
+# save_json(INVERTED_INDEX_FILE, inverted_index_doc_ids)
 
 elapsed = time.time() - start_time
 print(f"Hoàn thành. Thời gian: {elapsed:.2f} giây.")
