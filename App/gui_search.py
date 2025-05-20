@@ -4,6 +4,7 @@ import time
 import os
 import webbrowser
 import threading
+
 from search_engine.loader import load_all_data
 from search_engine.engine import search_query
 
@@ -49,7 +50,7 @@ class SearchApp:
         self.file_frame.pack(fill="x", pady=10, padx=20)
 
         self.file_label = ttk.Label(
-            self.file_frame, text="Chọn file truy vấn:", font=self.label_font
+            self.file_frame, text="Chọn file truy vấn:", font=self.label_font, wraplength=600
         )
         self.file_label.pack(side="left", padx=15, pady=10)
 

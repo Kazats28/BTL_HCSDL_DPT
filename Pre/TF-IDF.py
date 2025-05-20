@@ -1,15 +1,11 @@
 import os
 import math
-import json
 import time
-import pickle
 import re
-
-from nltk.corpus.reader import documents
 from tqdm import tqdm
 from collections import defaultdict, Counter
 
-from Pre.search_engine.save_json import save_json
+from search_engine.save_json import save_json
 from search_engine.stemmer import PorterStemmer
 from search_engine.save_pkl import save_pkl
 from search_engine.load_pkl import load_pkl
